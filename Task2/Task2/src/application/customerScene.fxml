@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.Pagination?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.CustomerController">
+   <children>
+      <MenuBar stylesheets="@application.css">
+        <menus>
+          <Menu mnemonicParsing="false" text="Naviga">
+            <items>
+                  <MenuItem fx:id="loginLogoutMenuItem" mnemonicParsing="false" onAction="#onLoginLogoutRequest" text="Login" />
+                  <MenuItem fx:id="registerMenuItem" mnemonicParsing="false" onAction="#onRegistration" text="Registrati" />
+                  <MenuItem fx:id="deleteMenuItem" disable="true" mnemonicParsing="false" onAction="#onDeleteAccountRequest" text="Cancella account" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem fx:id="pastReviewMenuItem" disable="true" mnemonicParsing="false" onAction="#onPastReviews" text="Visualizza le mie recensioni" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#onMainPageRequest" text="Torna alla pagina principale" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+              <MenuItem mnemonicParsing="false" onAction="#onCloseWindow" text="Chiudi" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Aiuto">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#onHelpRequest" text="Su  Ar' tocco!" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <AnchorPane styleClass="main-panel" stylesheets="@application.css" VBox.vgrow="ALWAYS">
+         <children>
+            <Label fx:id="messageCustomer" layoutX="14.0" layoutY="15.0" stylesheets="@application.css" text="Ciao!" AnchorPane.leftAnchor="15.0" AnchorPane.topAnchor="15.0" />
+            <Label fx:id="login" layoutX="1266.0" layoutY="15.0" onMouseClicked="#onLoginLogoutRequest" styleClass="clickable-button" stylesheets="@application.css" text="Login" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="15.0">
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Label>
+            <HBox spacing="100.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="50.0">
+               <children>
+                  <TextField fx:id="searchName" alignment="CENTER" onKeyReleased="#onChangeDetected" promptText="Nome del ristorante" styleClass="restaurant-selection" stylesheets="@application.css" />
+                  <MenuButton fx:id="searchCategory" mnemonicParsing="false" popupSide="RIGHT" prefWidth="200.0" styleClass="category-menu" stylesheets="@application.css" text="Nessuna Categoria" />
+               </children>
+               <padding>
+                  <Insets left="50.0" />
+               </padding>
+            </HBox>
+            <SplitPane dividerPositions="0.2" layoutY="84.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="120.0">
+              <items>
+                  <ListView fx:id="restaurantViewer" styleClass="left-panel" stylesheets="@application.css" />
+                <AnchorPane styleClass="right-panel" stylesheets="@application.css">
+                     <children>
+                        <VBox alignment="CENTER" spacing="10.0" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="40.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <HBox spacing="50.0">
+                                 <children>
+                                    <DatePicker fx:id="datePicker" prefWidth="250.0" styleClass="date-picker" stylesheets="@application.css" />
+                                    <Button mnemonicParsing="false" onAction="#onShowReviewDistribution" prefWidth="350.0" stylesheets="@application.css" text="Visualizza distribuzione delle recensioni">
+                                       <styleClass>
+                                          <String fx:value="general-button" />
+                                          <String fx:value="right-panel-button" />
+                                       </styleClass></Button>
+                                    <Button fx:id="addReviewButton" contentDisplay="CENTER" disable="true" mnemonicParsing="false" onAction="#onAddNewReview" prefWidth="250.0" stylesheets="@application.css" text="Aggiungi una recensione" textAlignment="CENTER">
+                                       <HBox.margin>
+                                          <Insets right="20.0" />
+                                       </HBox.margin>
+                                       <styleClass>
+                                          <String fx:value="general-button" />
+                                          <String fx:value="right-panel-button" />
+                                       </styleClass></Button>
+                                 </children>
+                              </HBox>
+                              <HBox alignment="TOP_RIGHT" VBox.vgrow="NEVER">
+                                 <children>
+                                    <VBox alignment="TOP_RIGHT" spacing="15.0" styleClass="right-panel-list-container" stylesheets="@application.css" HBox.hgrow="ALWAYS">
+                                       <children>
+                                          <HBox spacing="20.0">
+                                             <children>
+                                                <Label prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" stylesheets="@application.css" text="Nome:" />
+                                                <TextField fx:id="name" alignment="CENTER" disable="true" editable="false" prefWidth="400.0" promptText="Nome" styleClass="right-panel-value" stylesheets="@application.css" />
+                                             </children>
+                                          </HBox>
+                                          <HBox spacing="20.0">
+                                             <children>
+                                                <Label prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" stylesheets="@application.css" text="Numero di telefono:" />
+                                                <TextField fx:id="phoneNumber" alignment="CENTER" disable="true" editable="false" prefWidth="400.0" promptText="Numero di telefono" styleClass="right-panel-value" stylesheets="@application.css" />
+                                             </children>
+                                          </HBox>
+                                          <HBox spacing="20.0">
+                                             <children>
+                                                <Label prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" stylesheets="@application.css" text="Indirizzo:" />
+                                                <TextField fx:id="address" alignment="CENTER" disable="true" editable="false" prefWidth="400.0" promptText="Indirizzo" styleClass="right-panel-value" stylesheets="@application.css" />
+                                             </children>
+                                          </HBox>
+                                       </children>
+                                    </VBox>
+                                    <VBox spacing="10.0" styleClass="right-panel-list-container" stylesheets="@application.css">
+                                       <children>
+                                          <Label prefHeight="25.0" styleClass="right-panel-property" stylesheets="@application.css" text="Orari di apertura:" />
+                                          <ListView fx:id="timetables" maxHeight="100.0" prefWidth="300.0" styleClass="right-panel-list">
+                                             <VBox.margin>
+                                                <Insets left="20.0" />
+                                             </VBox.margin></ListView>
+                                       </children>
+                                    </VBox>
+                                 </children>
+                                 <VBox.margin>
+                                    <Insets top="20.0" />
+                                 </VBox.margin>
+                              </HBox>
+                              <HBox alignment="TOP_RIGHT" spacing="20.0" VBox.vgrow="NEVER">
+                                 <children>
+                                    <VBox spacing="10.0" styleClass="right-panel-list-container" stylesheets="@application.css" HBox.hgrow="ALWAYS">
+                                       <children>
+                                          <Label styleClass="right-panel-property" stylesheets="@application.css" text="Tipi di cucina:" />
+                                          <ListView fx:id="typeOfCooking" editable="true" maxHeight="100.0" prefWidth="300.0" styleClass="right-panel-list" stylesheets="@application.css">
+                                             <VBox.margin>
+                                                <Insets left="20.0" />
+                                             </VBox.margin></ListView>
+                                       </children>
+                                    </VBox>
+                                    <VBox spacing="10.0" styleClass="right-panel-list-container" stylesheets="@application.css">
+                                       <children>
+                                          <Label styleClass="right-panel-property" stylesheets="@application.css" text="Cucine particolari:" />
+                                          <ListView fx:id="options" editable="true" maxHeight="100.0" prefWidth="300.0" styleClass="right-panel-list">
+                                             <VBox.margin>
+                                                <Insets left="20.0" />
+                                             </VBox.margin></ListView>
+                                       </children>
+                                    </VBox>
+                                    <VBox spacing="10.0" styleClass="right-panel-list-container" stylesheets="@application.css">
+                                       <children>
+                                          <Label styleClass="right-panel-property" stylesheets="@application.css" text="Servizi aggiuntivi:" />
+                                          <ListView fx:id="features" editable="true" maxHeight="100.0" prefWidth="300.0" styleClass="right-panel-list">
+                                             <VBox.margin>
+                                                <Insets left="20.0" />
+                                             </VBox.margin></ListView>
+                                       </children>
+                                    </VBox>
+                                 </children>
+                              </HBox>
+                              <Pagination fx:id="reviewsViewer" stylesheets="@application.css">
+                                 <VBox.margin>
+                                    <Insets top="20.0" />
+                                 </VBox.margin></Pagination>
+                           </children>
+                           <padding>
+                              <Insets top="20.0" />
+                           </padding>
+                        </VBox>
+                     </children></AnchorPane>
+              </items>
+            </SplitPane>
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>

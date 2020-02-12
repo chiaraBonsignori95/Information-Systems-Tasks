@@ -1,0 +1,2043 @@
+{
+    "address": {
+        "city": "Pisa",
+        "country": "Italia",
+        "postcode": "56126",
+        "street": "Via Ulisse Dini 14"
+    },
+    "approved": true,
+    "categories": [
+        "Pesce",
+        "Mediterranea",
+        "Italiana",
+        "Salutistica",
+        "Cibo di strada"
+    ],
+    "name": "Branzo",
+    "numberOfReviews": 227,
+    "openingHours": [
+        {
+            "days": "mar - dom",
+            "times": [
+                "12:30 - 14:30",
+                "19:30 - 22:30"
+            ]
+        }
+    ],
+    "options": [
+        "Opzioni senza glutine"
+    ],
+    "phoneNumber": "+39 348 355 6225",
+    "priceRange": {
+        "maxPrice": 35,
+        "minPrice": 10
+    },
+    "rating": 4.5,
+    "reviews": [
+        {
+            "date": "2019-11-27",
+            "rating": 5.0,
+            "text": "Locale raffinato, accogliente e ben curato. Personale educato e molto disponibile. Eravamo in tre e ne siamo rimaste tutte soddisfatte. Ottimo il panino del giorno! Sicuramente torneremo a provare il resto del menù. Consiglio da parte nostra : DA PROVARE ! ",
+            "title": "Buonissimo! ",
+            "username": "267azzurra3"
+        },
+        {
+            "date": "2019-11-27",
+            "rating": 1.0,
+            "text": "Ho chiamato per prenotare un tavolo per il giorno dopo: è soltanto disponibile un’ora e mezzo prima l’ora che avevo richiesto. Dico che devo sentire le altre persone a cena con me e che avrei richiamato subito. Dopo 5 minuti richiamo, ma nessuno risponde. Riprovo 10 minuti dopo, questa volta rispondono. Ma il ristorante sapete cosa mi dice? Ormai quel tavolo l’ho dato via, non mi avevi dato la conferma, mi dispiace. Il tutto condito con tono di superficialità e arroganza. Male male",
+            "title": "ESPERIENZA NON POSITIVA",
+            "username": "lidom686"
+        },
+        {
+            "date": "2019-11-26",
+            "rating": 5.0,
+            "text": "Domenica scorsa siamo andati a provarlo senza prenotare arrivando lì alle 12 e il proprietario mi ha deto che se avessi mangaiato entro le 13.30 mi avrebbe trovato il tavolo e così è stato; sono stati velocissimi a prendere l'ordine e a servirci - ma anche gli altri commensali che sono arrivati dopo di noi. il menù è molto vario e tutto a base di pesce con anche piatti fuori menù sfiziosi. I prezzi sono in linea con la qualità e la quantità dei piatti. Sicuramente tornerò per provare gli altri piatti del menù che è molto vario.",
+            "title": "Originale e veloci",
+            "username": "T3089RYchriss"
+        },
+        {
+            "date": "2019-11-26",
+            "rating": 5.0,
+            "text": "Perfetto per pranzi con gli amici usciti dall'uni. Ambiente carino, personale molto accorto. Ci sono stata oggi per la prima volta e ho provato il fish burger (che consiglio). Sono davvero buonissimi, così come le patatine di contorno. Tornero sicuramente per provare il resto del menù.",
+            "title": "Pranzo post uni",
+            "username": "ariannatesei_"
+        },
+        {
+            "date": "2019-11-23",
+            "rating": 4.0,
+            "text": "Sono stata in questo ristorante per cena con delle amiche. Il locale è curato e particolare proprio come il menu che riporta in modo chiaro e sintetico tutte le possibili scelte.Ho optato per il tonno in crosta di pane che era a dir poco delizioso anche se i fish burger mi ispiravano altrettanto. Vino bianco della casa ottimo!Conclusione: Prezzi onesti, posto giovane, pesce buonissimo.",
+            "title": "Originale!",
+            "username": "AuSam1224"
+        },
+        {
+            "date": "2019-11-21",
+            "rating": 4.0,
+            "text": "Locale pulito, curato e carino soprattutto nella seconda sala che offre uno scorcio sulla cucina. Servizio attento e gentile. Menu affascinante e interessante, sebbene non originalissimo, avendo già provato diversi ristoranti molto simili. Abbiamo sperimentato i fishburgers, provando quello al salmone e la proposta della settimana. Panini ottimi, sia per quanto riguarda il pane, sia per ingredienti e abbinamenti, davvero gustosi! Ottime le patatine in accompagnamento e la salsa fatta in casa. Rapporto Qualità/prezzo molto buono. ",
+            "title": "Delizia!!",
+            "username": "Francescofaccioli"
+        },
+        {
+            "date": "2019-11-21",
+            "rating": 5.0,
+            "text": "Sono andata ieri sera in questo ristorante per la prima volta, incuriosita dal panino rosa alla bottarga limited edition e devo dire ha soddisfatto appieno le mie aspettative!Porzioni abbondanti, sia di patatine che il panino; Persona gentile e accogliente che ci ha spiegato tutto il menù,e preso i cappotti un quanto eravamo al tavolo alto con sgabelli!Come prezzo 34€ in 2 con 2 panini limited edition che comprendono già le patatine e una bottiglia d’acqua grande; Consiglio sicuramente,torneremo!",
+            "title": "Sono andata ieri sera in questo",
+            "username": "elyesmyb"
+        },
+        {
+            "date": "2019-11-14",
+            "rating": 5.0,
+            "text": "Un ristorante con pochi coperti , ben arredato e con un personale molto preparato. Il menú è esclusivamente di pesce , presenta antipasti , primi, secondi , tartare ma soprattutto i “ Fish-Burger” , il piatto caratteristico e portato con ottime patate fritte. Prezzi nella norma. Ottimo .",
+            "title": "Piacevole scoperta",
+            "username": "federicodisacco"
+        },
+        {
+            "date": "2019-11-14",
+            "rating": 4.0,
+            "text": "Ottime materie prime, servizio rapido nonostante sia sempre pieno, anche di giovedì sera..... Le portate erano giuste come quantità, anzi anche di più..... La stella in meno è solo x il tavolo ed il posto che è piccolo..... Prezzo giusto o poco sopra la media, ma se si vuole la materia prima buona........",
+            "title": "Bella scoperta",
+            "username": "Riccardosechi79"
+        },
+        {
+            "date": "2019-11-14",
+            "rating": 5.0,
+            "text": "Sono stato a cena in questo locale con una mia amica. Molto carina l’idea di poter comporre a proprio piacimento il piatto di crudi. Ottime le polpette di mare e il burger di polipo (le patatine in accompagnamento al burger davvero fantastiche). Personale attento e cordiale. Nonostante il locale fosse pieno siamo stati serviti velocemente. Lo consiglio vivamente e ci ritornerò senz’altro.",
+            "title": "Un menu tutto da scoprire",
+            "username": "Gianmaria L"
+        },
+        {
+            "date": "2019-11-14",
+            "rating": 5.0,
+            "text": "Abbiamo preso tre antipasti tra cui delle polpette con gamberi e salmone veramente buonissime. A seguire pasta “branzo” e tonno in crosta fatti a regola d’arte. I dolci, purtroppo, non allo stesso livello.Personale giovanile e gentile. Locale carino, in pieno centro.Qualità/prezzo giusto.",
+            "title": "Finalmente un ristorante buono a Pisa",
+            "username": "Margherita B"
+        },
+        {
+            "date": "2019-11-07",
+            "rating": 5.0,
+            "text": "Invogliate dalle recensioni e incuriosite dallo special della settimana, andiamo in questo locale e ci troviamo accolte da un personale molto professionale e gentile che ci fanno accomodare.Mentre aspettiamo l'ordine ci viene servito come entrée una polpetta di gambero e salmone molto tenera, croccante e saporita; a seguire una porzione di ravioli divisi in due di branzino con rossi di Sicilia, molto saporito e delicato; e poi il pezzo forte salmone all'arancia e il panino special composto da: pane viola, burrata al tartufo, zucca grigliata, insalata belga, tartare di orata e tartufo, un'esplosione di sapori che si bilanciano in maniera perfetta.Che dire poi delle patatine... bisogna assaggiare per capire lo spettacolo che sono!!Direi che siamo uscite soddisfatte sotto ogni punto di vista, e sicuramente ripeteremo a breve l'esperienza.",
+            "title": "Varietà di sapori!",
+            "username": "luciacecca"
+        },
+        {
+            "date": "2019-11-07",
+            "rating": 4.0,
+            "text": "Siamo stati a cena in questo locale ed abbiamo preso due deo famosi burger di pesce, uno la speciale versione halloween von pane nero, tartufo, tartare do orata, zucca ecc, l'altro dal menu. Panini molto buoni, ricchi e gustosi, con patatine fritte anche piuttosto abbondanti. Tutto squisito.La cosa che a mio avviso manca per raggiungete il massimo punteggio è soprattutto la cura del locale (molto spoglio e anonimo) e anche la maggior cura dei dettagli nel proporre dei piatti di un certo livello.Per il resto tutto molto bene, servizio cortese e rapido, personale giovane e affabile.",
+            "title": "Idea molto buona, da migliorare",
+            "username": "Flavour2015"
+        },
+        {
+            "date": "2019-11-07",
+            "rating": 5.0,
+            "text": "Ciao a tutti, premetto che sono stato da Branzo almeno 10 volte, provando sia il coperto sia da asporto. Amo il loro cibo, soprattutto per la qualità! Il pesce è sempre freschissimo, ed ilSashimi che viene messo dentro i burger è da far impazzire! Leggo diverse recensioni negative sulla questione PREZZI.Ragazzi, ma sapete come funziona il mercato del pesce? Sicuramente Branzo non è un locare extra economico. Infatti quei 15-20€ ti partono sempre, però esci dal locare bello sazio e felice di aver mangiato di qualità, nonostante sia uno streetfood il concetto di burger.Quindi personalmente consiglio a tutti il locale, avviamente con 5€ non mangiate... mi sembra ovvio .Per il resto veramente fantastico! Consigliato",
+            "title": "Secondo me prezzi onesti",
+            "username": "angel0capalb0g"
+        },
+        {
+            "date": "2019-11-07",
+            "rating": 4.0,
+            "text": "Prodotti freschi e cucinati bene. Ambiente ben arredato e staff gentile. Anche il vino della casa molto buono. Unica nota negativa: il prezzo. A mio avviso è troppo caro. È vero che le porzioni sono abbastanza abbondanti, ma per tre fish burger, una bottiglia di vino in tre, due dolci e un caffè, 24 euro a testa, mi sembra davvero un po' eccessivo. Considerando che non siamo in una località balneare e tanto meno vista mare, il rapporto qualità/prezzo non mi sembra equo. Peccato.",
+            "title": "Sabato sera",
+            "username": "martiluna1"
+        },
+        {
+            "date": "2019-11-07",
+            "rating": 2.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Ilaria, ci dispiace molto leggere la tua recensione, tuttavia invito a spostare la tua attenzione sulla qualità e l’unicità dei prodotti che mangi da noi. Da branzo offriamo il coperto e cerchiamo di mantenere i prezzi più bassi possibili, ma la qualità ha un costo, sennò serviremmo cibo mediocre da ristorante turistico, e credimi a quelle cifre oggi ci mangi una pizza. Ci scusiamo per le patatine, se te ne sono arrivate meno del solito, penso sia stato un caso, perché sono sempre molto abbondandati, tant’è che non spesso non vengono neanche finite. Ti aspettiamo se cambi idea, un saluto."
+            },
+            "text": "Panini di pesce molto buoni e patatine ancora di più ma penso proprio di non tornare più, forse per sbaglio e mi dispiace molto.La prima volta i panini costavano 10€ La settimana dopo 12€E circa un mese dopo 15€Inaccettabile, poichè gli ingredienti rimangono sempre gli stessi, solo l'ultima volta ne hanno cambiato qualcuno.Ah e inoltre la porzione di patatine si riduce sempre più.Peccato, avevate iniziato così bene.",
+            "title": "Sempre più costoso.",
+            "username": "ilarybattellino"
+        },
+        {
+            "date": "2019-11-07",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie cara per esser venuta da branzo, ci riempie di gioia leggere che tutto quello che avete assaggiato vi sia piaciuto. Vi aspettiamo senz’altro durante il prossimo viaggio a Pisa. A prestooo!"
+            },
+            "text": "Esperienza indimenticabile e se dovessimo tornare a Pisa una tappa in questo ristorante sarà inevitabile. Polpo morbidissimo, linguine cozze e vongole buonissime, ravioli eccezionali e fritto strepitoso !!! Consigliatissimo ",
+            "title": "Esperienza indimenticabile",
+            "username": "pommery59"
+        },
+        {
+            "date": "2019-11-07",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Roberta, siamo molto felici che avete scelto branzo appena arrivate a Pisa, e che tutto sia stato di vostro gradimento. Vincenza vi saluta, e vi aspetta alla vostra prossima visita a Pisa. A prestoo!"
+            },
+            "text": "Appena arrivate in aereoporto il ragazzo del rent a car ci ha consigliato di venire da Branzo X il buon pesce e prezzi affordabili... arrivate da Branzo ci hanno fatto subito accomodare e la nostra cameriera Vincenza è stata bravissima... e ... pesce fresco e servizio artante... ",
+            "title": "Appena arrivate in aereoporto",
+            "username": "robertai314"
+        },
+        {
+            "date": "2019-11-07",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Michele per la recensione, siamo felici che i burger vi siano piaciuti, così come la nostra formula.Vi aspettiamo per testare anche gli altri :-) A prestooo"
+            },
+            "text": "Provati i Fish burger, con gamberi e con salmone. Grande qualità del prodotto, accostamenti attuali ma sobri, locale moderno in zona centralissima. Insomma una formula di successo, da provare assolutamente ",
+            "title": "Pesce con stile ",
+            "username": "michelev432"
+        },
+        {
+            "date": "2019-10-24",
+            "rating": 3.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Lucilla,come ti avevo spiegato da branzo, i prezzi sul menù derivano da una valutazione del costo piatto, ed essendo cambiati gli ingredienti di alcuni burger, questi hanno subito lievi variazioni. Comprendo che per voi possono risultare cifre importanti, tuttavia per la qualità e la quantità di prodotto che usiamo, credimi sono il minimo. A presto! Branzo"
+            },
+            "text": "Non si puo dire niente, il vostro panino è sempre buono, ma i prezzi lievitato di volta in volta che vengo, il salmon burger da 10 è passato a 13 e panini che erano a 13 sono saliti a 15, mi darei un freno..",
+            "title": "I prezzi lievitano",
+            "username": "blucilla"
+        },
+        {
+            "date": "2019-10-23",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie cari per esser venuti da branzo e per aver condiviso la vostra esperienza! A presto "
+            },
+            "text": "Siamo stati con la mia ragazza ieri sera in questo ristorante, un po’ nascosto, nella zona di borgo stretto. Molto vicino al Corso Italia, ci ha offerto una cena veloce e davvero piacevole. Due fishburger ben assemblati, con accostamento di ingredienti e pesce di qualità! Ottimo anche il vino, stappato al momento, un Vermentino locale al calice (anche molto abbondante) che si è sposato alla perfezione con entrambi i piatti. Sicuramente ci torneremo presto, esperienza da 9 pieno!",
+            "title": "Cena diversa e molto piacevole",
+            "username": "Vins1997"
+        },
+        {
+            "date": "2019-10-21",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Salve Giulia,molte grazie per esser venuti da branzo e per aver dedicato parte del vostro tempo condividendo la vostra esperienza. Siamo felici che tutto sia stato di vostro gradimento, e condivido con te, il fatto che siamo idonei a gruppi ristrettì per il poco spazio, detto questo i bambini sono i benvenuti Ti aspettiamo presto,Un saluto "
+            },
+            "text": "Ristorantino “nascosto” in centro Pisa, in borgo Stretto. Pesce molto buono, Menù vario, panini innovativi e ottimi! Unica nota negativa, il locale è piccolo, lo consiglio per coppie, per un gruppo di amici (4-6 persone), non con famiglie con i bambini perché non é molto indicato per il poco spazio.Nel complesso, comodo per la posizione centrale e buono!",
+            "title": "Cena con amici",
+            "username": "V4201YEgiulias"
+        },
+        {
+            "date": "2019-10-21",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Wow, ci lasci senza parole! Grazie mille per l’ottimo feedback! Ti aspettiamo presto da branzo "
+            },
+            "text": "Assolutamente da provare!pesce buonissimo e di qualità, cucinato egregiamente, in maniera inusuale.Locale carino, curato in ogni piccolo dettaglio.Personale di livello, sempre gentile, disponibile e sorridente.",
+            "title": "Pesce delizioso, bella location, personale fabtastico",
+            "username": "mufloncin"
+        },
+        {
+            "date": "2019-10-20",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Francesca, il sorriso ce lo strappo te con la tua bella recensione, grazie per la visita e per i complimenti. È per noi il massimo quando ci vengono a trovare clienti speciali come te, ti aspettiamo presto da branzo, un saluto "
+            },
+            "text": "Consiglio vivamente una visita.. Anche più di una... Ingredienti molto buoni cucinati molto bene... Io che sono un Appassionata della buona cucina non ho trovato un difetto. Soldi spesi bene. Ad ogni portata un sorriso spontaneo sul mio viso. Un piacere per occhi e palato. ",
+            "title": "Tutto ottimo. Al passo. Un team giovane, preparato e volenteroso. Ingredienti di qualità rispettati nelle cotture.",
+            "username": "francesca m"
+        },
+        {
+            "date": "2019-10-20",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao cara, grazie per la dettagliata recensione ☺️ e grazie per esser venuta da branzo. Durante il nostro periodo di ferie, abbiamo in programma alcune ristrutturazioni, tra cui esaltare maggiormente le pietre in alcuni punti, grazie dell’ottimo suggerimento. Ti aspettiamo presto,Un saluto "
+            },
+            "text": "Locale trovato su google maps per ricerca votazioni, cena di coppia di sabato sera, cucina quasi esclusivamente di pesce. Ottimo antipasto abbondante di cozze+vongole+gamberi+ciliegino, primo tagliolino al nero di seppia alle cozze+vongole+gamberi+ciliegino molto buono ma porzione non l'ho trovata abbondante di pasta, ottimo abbondante fritto misto con verdure (fritto infarinato). Il pesce risulta fresco e buono, ben pulito prima della cottura e ben servito. Ampio menù di fishburger (che sinceramente non gradisco). Servizio veloce e professionale (ci sono molti camerieri), prezzi nella media (non si paga il coperto!). L'unico difetto è il locale: troppo moderno e freddo, lo avrei lasciato sul rustico (si intravedono i mattoni\\pietre alle colonne dell'arco) visto l'ubicazione in centro di Pisa tra borgo stretto e piazza dei cavalieri. Da tornarci sicuramente.",
+            "title": "Ottimo pesce ben cucinato!!",
+            "username": "VeritaRendeLiberi"
+        },
+        {
+            "date": "2019-10-20",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Luca e Roberta per esser venuti da branzo e per aver dedicato parte del vostro tempo a condividere la vostra esperienza. Vi aspettiamo presto da branzo dove faremo del nostro meglio per rendere la vostra cena più rilassante."
+            },
+            "text": "Qualità della materia prima elevatissima. Tartarre di tonno e salmone freschissime, orata morbida e cotta perfettamente, tonno burger delicatissimo, accompagnato con una burrata gustosa. Prezzo, forse, leggermente poco più alto della norma, ma ci sta se mangi prodotti di livello. Unica pecca, lavorando su due turni, il servizio è, a mio modo di vedere, troppo veloce: noi in 20 minuti avevamo terminato la cena. Quando esco a cena, mi piace anche gustarla con i tempi giusti, senza fare le corse e gustando il vino a piccoli sorsi. Per altri clienti, però, questo potrebbe essere invece un punto di forza del locale. Ad ogni modo, giudizio molto positivo.... ",
+            "title": "Ottimo cibo, mangiato alla velocità della luce",
+            "username": "LucaeRoberta2008"
+        },
+        {
+            "date": "2019-10-19",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Susanna per le belle parole, la tua soddisfazione è la nostra gioia, ti aspettiamo presto da branzo.Un salitone"
+            },
+            "text": "Abbiamo cenato in questo locale un giovedì sera. Nonostante fosse pieno il servizio è stato veloce e impeccabile. Il fishburger è davvero insuperabile! I prezzi sono onesti considerando la qualità del prodotto. Ritorneremo.",
+            "title": "Fishburger super",
+            "username": "134susannal"
+        },
+        {
+            "date": "2019-10-19",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per aver scelto branzo e per aver condiviso la vostra esperienza. E' un vero piacere leggere le vostre parole, e percepire la vostra soddisfazione, questo ci stimola a dare sempre il massimo.Vi aspettiamo presto da branzo per scoprire le ultime novità!Un saluto"
+            },
+            "text": "Siamoa pranzo. Antipasti con una tartare di salmone sublime!!! Ostriche che sono mare puro. Mio marito ha proseguito con dei tagliolini integrali allo scoglio, io con una spadellata super: un tegamino di frutti di mare e di scoglio in guazzetto. Su Pisa Insuperabile!!!",
+            "title": "Esagerato!!!",
+            "username": "Go825586"
+        },
+        {
+            "date": "2019-10-15",
+            "rating": 5.0,
+            "text": "In questo ristorante è possibile gustare dei fishburger davvero squisiti. Alcuni sono fissi in menu, altri variano ogni settimana. I panini vengono serviti assieme alle patatine fritte anch'esse eccezionali. Una cameriera ci ha spiegato che vengono lasciate per una notte in una miscela a base di acqua e aceto e poi vengono panate in un mix di farine. Abbiamo ordinato il panino della settimana, composto da pane rosso al pomodoro con rana pescatrice in pastella, burrata al limone, misticanza e crema di lardo e il burger con tartare di tonno, burrata, pomodoro alla griglia e salsa al basilico. Top! E anche giganti. ",
+            "title": "Fishburger squisito",
+            "username": "hosemprefame_hjkigh"
+        },
+        {
+            "date": "2019-10-13",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Romina per esser venuta da branzo e per aver condiviso la tua esperienza. A presto!"
+            },
+            "text": "Polpette di non ricordo cosa su salsa di vongole e carote ottime, abbiamo mangiato burger di salmone e un tonno burger entrambi molto buoni, ma se non si va pazzi per il pesce crudo scegliere la variante del pesce scottato scottato.. rapporto qualità-prezzo non dei migliori, ma nel complesso lo consiglio se si vuol mangiare qualcosa di particolare e buono a base di pesce. Servizio ottimo e veloce, personale competente",
+            "title": "Consigliabile",
+            "username": "Romina C"
+        },
+        {
+            "date": "2019-10-13",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Fabio, ti aspettiamo per provare anche i nuovi fish burger inseriti nel menù,A prestooo!"
+            },
+            "text": "Panini succulenti e abbondanti! Proposta originalissima a Pisa, ci voleva. Bravi! Consigliato. E ci ritornerò...",
+            "title": "Fish burger!!!",
+            "username": "FabioAcri"
+        },
+        {
+            "date": "2019-10-12",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Salve Miss Smith, siamo felici che sia una nostra cliente e che apprezzi la qualità dei nostri piatti. Circa i fuori menù, generalmente ne proponiamo più di uno, ed è probabile che quelli più appetibili finiscano subito, del resto essendo extra, non possiamo garantirne la permanenza. Se vuole però la prossima volta, se ci avverte, possiamo metterne una porzione da parte. L'aspettiamo presto, Un saluto"
+            },
+            "text": "Siamo stati al Branzo diverse volte, quasi sempre a pranzo.Buoni i ravioli con branzino e ricotta o le linguine ai frutti di mare, come buono anche il polpo alla piastra servito con una salsa al pecorino.Peccato aver prenotato e aver visto, già alle 13.15, scomparire dal fuori menù i gamberi in sfoglia.Servizio onesto, giovane anche se il rapporto qualità-prezzo non è esattamente dei migliori... Consiglio: prenotate!",
+            "title": "Buono ma...",
+            "username": "MissSmithCa"
+        },
+        {
+            "date": "2019-10-10",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Fantastica sei te che lasci questa review, ti aspettiamo presto.Un salutonee"
+            },
+            "text": ".......... no comment, consigliatissimo.Tartare di salmone e burger di tonno; ci devo tornare per gustarmi gli innumerevoli piatti disponibili.",
+            "title": "Fantastico!!!!!",
+            "username": "nespola1963"
+        },
+        {
+            "date": "2019-10-08",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Le recensioni come la vostra ci riempiono di gioia, e trovare persone come voi non è facile, per cui saremo molto felici di riavervi come nostri ospiti. Vi mandiamo un abbraccio dalla Toscana, a presto ragazzi."
+            },
+            "text": "Siamo stati a Pisa 3 giorni e abbiamo ripetuto 2 volte! Un pranzo e una cena spettacolari! Veniamo da Barcellona e trovare un posticino intimo, raffinato e con pesce buonissimo non è così facile. Torneremo in questa città solo ed esclusivamente per mangiare qui! Ci hanno trattato benissimo, siamo andati senza prenotare e ci hanno trovato un posticino, e in nessun momento ci hanno messo fretta perché serviva il tavolo per il turno successivo. Ci fossero più di 5 stelle le metterei! Grazie! Continuate così e superatevi a voi stessi perché per noi siete già i primi!",
+            "title": "Espectacular!",
+            "username": "Ndr1090"
+        },
+        {
+            "date": "2019-10-08",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie cara per esser venuti da branzo, siamo felici che tutto sia stato di vostro gradimento. Vi aspettiamo per provare i Limited e gli altri piatti del menù. A presto"
+            },
+            "text": "Posto piccolino, minimal e carino. Personale gentile. Dopo qualche minuto di attesa ci siamo accomodati per una cena fra amici. In 4 abbiamo preso 3 tartare come antipasto, tre fish burgher, un filetto di tonno scottato con semi di papavero, una bottiglia di vino e due di acqua, spesa nella norma considerando la bottiglia di vino da 17 euro. Panini buonissimi, con tanto pesce (anche tartare), corredati da patatine fritte homemade e maionese alla paprika che da soli bastano a sfamarti (perchè sono davvero grandi) e si aggirano tutti sui 14/15 euro!Consigliatissimo per una cena di pesce o per un panino al volo!Nb. Molto spesso ci sono panini nuovi limited edition, merita passarci spesso!",
+            "title": "Fish burger pazzeschi!",
+            "username": "Imanhedgehog"
+        },
+        {
+            "date": "2019-10-07",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Martina, grazie per esser passata con le tue amiche da branzo. Vi riaspettiamo presto. "
+            },
+            "text": "Mi sono recata da branzo alcuni giorni fa con due mie amiche. Cena buonissima e vino molto buono. Conto adeguato. Personale molto giovane e gentile. Un bel posticino in centro a Pisa . Ci tornerò sicuramente!",
+            "title": "Ottima cena",
+            "username": "MartinaM1828"
+        },
+        {
+            "date": "2019-10-04",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Salve Alessandro, perdonaci, ma durante la vostra visita il seggiolone era in manutenzione, ma la prossima volte che verrete sarà a vostra completa disposizione. Forse avendo scelto la griglia, che è un piatto componibile non sei riuscito a sfamarti, ma per la prossima volta saremo felici di consigliarti secondi più ricchi, come per esempio l'ottima tagliata di tonno in crosta accompagnato da purè di patate. A presto ed un saluto a tutta la famiglia."
+            },
+            "text": "Locale non proprio comodo per una famiglia con bambini perché non hanno nemmeno i seggiolini e i tavoli sono davvero piccolissimi, ma il pesce è davvero ottimo, si sente che è fresco ed è cucinato molto bene. Ottimo rapporto qualità prezzo, unica cosa è che per chi è \"mangione\" fa un pó fatica a saziarsi visto che i piatti non sono proprio abbondanti",
+            "title": "Pesce freschissimo",
+            "username": "920alessandrod"
+        },
+        {
+            "date": "2019-10-02",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Non solo branzo e gena, anche tale away :-) Grazie cari per esser venuti da branzo, vi aspettiamo presto per provare anche gli altri piatti del menù e i nuovi fish burger. Un salutone"
+            },
+            "text": "Il locale mi sembra che abbia aperto nel 2019, molto carino e ben fatto...c’è una sala abbastanza grande in fondo al locale. Siamo arrivati senza prenotare e ci hanno fatto sedere subito. Abbiamo preso due panini,veramente ottimi, con patatine annesse, acqua e una birra neo zelandase ottima. Panini particolari e con materie prime veramente ottime. Prezzo leggermente alto, ma bene spesi. Totale 35 € in due",
+            "title": "....a branzo e gena...",
+            "username": "stefili9"
+        },
+        {
+            "date": "2019-10-01",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao marco, grazie per aver scelto branzo e per la bella review. Vi riaspettiamo per un altro pranzo/cena di mare. A prestooo!"
+            },
+            "text": "Siamo stati domenica a pranzo in sei persone. Pesce fresco e molto ben cucinato, si sente proprio il sapore del mare. Personale giovane, gentile e simpatico. Costo di €.35 a persona. Per quello che abbiamo mangiato e bevuto direi ottimo rapporto. Da ritornare sicuramente. CONSIGLIATO.",
+            "title": "Ottimo pranzo",
+            "username": "marco d"
+        },
+        {
+            "date": "2019-10-01",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Michol, purtroppo avendo una cucina piccola siamo soggetti a contaminazione e non abbiamo un laboratorio dove poter lavorare più materie prime per celiaci, cercheremo in ogni modo in futuro di ampliare la scelta. A presto e grazie per esser venuti da branzo."
+            },
+            "text": "Buon ristorante di pesce con non moltissima scelta ma piatti molto buoni e personale molto cordiale. Spadellata ottima!!! Crudo di eoscw eccezionale. Non molto preparato per i celiaci. Anche patatine fritte e polpo naturalmente senza glutine sono cucinati in modo da avere il glutine... Prezzi nella media per la qualità del cibo.",
+            "title": "Buon ristorante di pesce!! ",
+            "username": "micol_roma"
+        },
+        {
+            "date": "2019-09-30",
+            "rating": 3.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Michol, probabilmente hai fatto la solita review con due account :-( purtroppo non abbiamo un laboratorio con una moltitudine di macchinari, dove poter trattare un intera gamma prodotti per celiaci, ma una piccola cucina dove possiamo garantire la non contaminazione di soli alcuni piatti. Vi riaspettiamo presto per poter gustare anche i crudi, le grigliate ed alcuni secondi. A presto,Un saluto"
+            },
+            "text": "Buon ristorante di pesce con non moltissima scelta ma piatti cucinati ottimamente e personale molto cordiale. Purtroppo non è sicuramente il regno dei celiaci. Anche piatti che sarebbero senza glutine tipo le patatine fritte ed il polpo sono cucinati in modo da avere il glutine... Prezzi nella media per la qualità del cibo. Consigliata la spadellata... Veramente ottima!!",
+            "title": "Buon ristorante di pesce!",
+            "username": "micolb581"
+        },
+        {
+            "date": "2019-09-29",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Irene, il pranzo della Domenica mi sembra un'ottima occasione per provare branzo :-). Grazie per esser venuta e per le belle parole. Ti aspettiamo presto per provare anche le altre squisitezze, A presto!"
+            },
+            "text": "Primi piatti e fritto ottimi e personale gentile e preparato: il perfetto mix per un piacevole pranzo della domenica! Sicuramente da tornare per provare gli altri piatti (che passavano e sembravano decisamente gustosi...). Bravi bravi bravi!!! Continuate così.",
+            "title": "Piacevolissima sorpresa, da tornarci",
+            "username": "irenepisa84"
+        },
+        {
+            "date": "2019-09-26",
+            "rating": 5.0,
+            "text": "Frittura mista calamari e gamberoni in un pastella eccezionale, con un po di verdure di stagione di accompagnamento.Gambero Burger buonissimo il mix di gusti.Salmone burger buono. Accompagnati da patatine in pastella e una salsina stra buona!Il pesce è fresco, il locale in centro a Pisa è semplice ma carino. Personale molto gentile e disponibile. Consiglio per un panino diverso dal solito e una mangiata di pesce. ",
+            "title": "Buonissimo",
+            "username": "alessiapir"
+        },
+        {
+            "date": "2019-09-25",
+            "rating": 3.0,
+            "text": "A cena con la migliore amica in centro da branzo posto piccolo pochi tavoli molto carino moderno panino col pesce ottimo scegli il pane il pesce combinazioni perfette patate fatte da loro molto buone e bicchiere di vino il mio panino era integrale col salmone pesto menta ricotta l' unica nota negativa il servizio ... purtroppo non comunicano fra loro ho dovuto ricordate il vino che non era ancora arrivato al cameriere una cameriera appena sedute arriva e dice avete deciso ? No guarda siamo arrivate ora ... troppo addosso. Peccato per il servizio costo 41 in 2.",
+            "title": "Compleanno",
+            "username": "celestemarghe"
+        },
+        {
+            "date": "2019-09-24",
+            "rating": 5.0,
+            "text": "attratti dalle buone recensioni andiamo in questo locale.molto carino con cibo buonissimo a prezzi veramente bassi per la qualità che abbiamo trovato abbiamo mangiato benissimo e abbondante da provare",
+            "title": "bella scoperta",
+            "username": "N1483LEmohammeds"
+        },
+        {
+            "date": "2019-09-23",
+            "rating": 5.0,
+            "text": "..dopo tanto sentirne parlare, siamo andati a cena anche noi..locale semplice ordinato e pulito, personale giovane, preparato e gentile, hamburger...che dire??una gioia alla vista ma soprattutto al palato!!l unica cosa che a \"me personalmente\" non sono piaciute sono state la patatine fritte, infatti la prossima volta (che sicuramente a breve ci sarà) chiederò se si possono non prendere.Bravi ragazzi continuate cosi!!",
+            "title": "confermo le recensioni positive!!",
+            "username": "Towerfamily"
+        },
+        {
+            "date": "2019-09-23",
+            "rating": 5.0,
+            "text": "Ormai è la terza volta che ceno da Branzo e devo dire che sono sempre rimasta soddisfatta, materie prime di ottima qualita' , il pesce è fresco, oltre al loro menu' propongono anche piatti del giorno, il servizio impeccabile e veloce e i sono prezzi onesti.",
+            "title": "Una conferma!",
+            "username": "reberebe2401"
+        },
+        {
+            "date": "2019-09-22",
+            "rating": 5.0,
+            "text": "Il locale è al centro di Pisa, a due passi da piazza dei Cavalieri. Senza eccesive pretese, ma arredato in modo gradevole. Ho trovato davvero buonissimo il polpo grigliato di antipasto, con tocchi particolari, da tempo non ne mangiavo di così ben fatto, e notevoli i ravioli di pesce con i gamberetti, squisiti. Se gli altri piatti sono a questo livello, abbiamo un posto da non farsi sfuggire.",
+            "title": "ottima prima esperienza",
+            "username": "clark58"
+        },
+        {
+            "date": "2019-09-22",
+            "rating": 4.0,
+            "text": "Locale semplice ma intimo,piatti ottimi unica pecca servizio forse troppo veloce, sembra che ti vogliono mandare via",
+            "title": "Cena",
+            "username": "letsgomen"
+        },
+        {
+            "date": "2019-09-21",
+            "rating": 3.0,
+            "text": "Il locale è molto bianco, con alcune lampadine ad un lato. I tavoli sono grigi, le sedie di due modelli. Non ci sono tovaglie o altri oggetti non necessari. L'atmosfera è molto tranquilla, con un certo religioso silenzio. Il cibo viene preparato a vista, che è ovviamente un'ottimo punto a favore. Le porzioni sono decisamente abbondanti, le patate fritte molto buone. Sui panini invece ho qualche riserbo sugli accostamenti. La menta con il salmone non mi è piaciuta. Il burger al polpo era troppo salato. Nell'insieme un'esperienza che non mi ha lasciato niente di positivo. I prezzi medio/alti, ma per un pesce di qualità si spendono volentieri.",
+            "title": "Nella media",
+            "username": "lorenz9010"
+        },
+        {
+            "date": "2019-09-20",
+            "rating": 5.0,
+            "text": "Locale molto carino, semplice e curato...e piatti davvero ottimi! I Fishburger sono molto particolari, gli abbinamenti sono perfetti. Abbiamo mangiato benissimo...una bella novità a Pisa! Consigliatoooooooo",
+            "title": "Una buonissima novità a Pisa",
+            "username": "GiuliaM1984"
+        },
+        {
+            "date": "2019-09-18",
+            "rating": 5.0,
+            "text": "Locale piccolo, ma con dei piatti di pesce buonissimi e a prezzi giusti. Il gamberoburger è da provare, pienissimo dentro con tanti gamberi, pancetta, funghi porcini ecc accompagnato da una montagna di patatine croccanti con una maionese fatta da loro. Buonissimo e anche presentato bene. Le cameriere gentilissime e disponibili. Consiglio solo di fare qualcosa al locale che è un po' spoglio, magari di aggiungere qualche quadro o altro, giusto per rendere l ambiente più confortevole. Torneremo di sicuro a provare altri piatti",
+            "title": "Una piacevole scoperta ",
+            "username": "Pisa537"
+        },
+        {
+            "date": "2019-09-17",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Irene, grazie per la tua recensione, siamo felici di leggere la tua esperienza positiva da branzo e restiamo a disposizione per accoglierti nuovamente per un pranzo, una cena o semplicemente un take away! A presto."
+            },
+            "text": "Ristorante a base di pesce di buonissima qualità. Particolarmente gustosi i fish burger, li consiglio! Meglio accompagnare il tutto con un bel calice di vino. Rimasti soddisfatti anche dal servizio, camerieri gentili e professionali. I prezzi sono più che adeguati, per la qualità offerta. Consigliato! ",
+            "title": "Consigliato ",
+            "username": "irenetir11"
+        },
+        {
+            "date": "2019-09-16",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Cara, ti ringraziamo per il feedback positivo e vi aspettiamo nella prossima visita a Pisa!Un saluto, branzo staff"
+            },
+            "text": "Ieri sera sono stata al ristorante in quanto mi trovavo a Pisa per un concerto, avevo trovato il posto per caso, spulciando tra i social media.Abbiamo mangiato in modo ECCELLENTE, il servizio veloce e carino, i prezzi più che onesti, considerata la cena a base di pesce.Tornerò sicuramente se ricapiterò a Pisa.Consiglio vivamente a tutti!",
+            "title": "CIBO OTTIMO, prezzi equilibrati!",
+            "username": "Sillasmile"
+        },
+        {
+            "date": "2019-09-15",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Enzo,grazie per aver condiviso la tua esperienza, siamo molto felici che i piatti che avete assaggiato vi siano piaciuti.Ti aspettiamo presto,Un caro saluto,Branzo staff"
+            },
+            "text": "Ristorante molto bello ed ha il suo perché... Il crudo è veramente spettacolare da leccarsi i baffi e per finire un bel fish burger accompagnato da buon bicchiere di prosecco... Camerieri veramente gentili e qualità prezzo ottima",
+            "title": "Cena TOP",
+            "username": "Enzino88"
+        },
+        {
+            "date": "2019-09-15",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao ragazze,grazie per esser venute da branzo e per aver condiviso la vostra esperienza!Vi aspettiamo presto,Un saluto,Branzo staff"
+            },
+            "text": "Serata tra amiche finita nel migliore dei modi.Cibo buono e rapporto qualità prezzo fantastica se considerate che con 20/25 euro uscite di lì con la pancia piena di ottimo pesce. Consigliatissimo",
+            "title": "Da rifare",
+            "username": "bubinicarini"
+        },
+        {
+            "date": "2019-09-15",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Cara,grazie per le belle parole, le recensioni sincere e fatte con il cuore sono quelle che noi adoriamo e che ci motivano a dare sempre il massimo per soddisfarvi.Ti aspettiamo presto!Un salutone,Branzo staff"
+            },
+            "text": "L'aspetto più interessante di Branzo, in un tempo di menù omologati, è invece proprio la carta, che offre,anzitutto, uno straordinario crudo componibile attraverso la miscela di tartare e di pezzi singoli tutti di indubbia freschezza. Seguono poi antipasti caldi e primi curati e ben presentati a prezzi interessanti che mai superano i 15 euro. Ma il dato più innovativo è sicuramente rappresentato dalla possibilità di cenare, in pieno centro a Pisa, con soli 15 euro (bevande escluse) grazie a 3/4 tipologie di panini (divini) a base di crudite' e pesce cotto, accompagnati da ottime patate fritte con la buccia. Sottolineo che raramente, pur avendo una certa esperienza in cibi di mare, ho mangiato tartare di tonno del livello di quelle utilizzate da Branzo. Personale cortese, preparato e rapidissimo, dato, che passa in secondo piano solo di fronte alla qualità intrinseca delle portate.",
+            "title": "Innovazione possibile",
+            "username": "dirittoaifornelli"
+        },
+        {
+            "date": "2019-09-14",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie per esser venuti da branzo e per aver condiviso la vostra esperienza positiva. Assaggiare i due fishburger con tartare è stata una scelta perfetta. Vi aspettiamo presto per assaggiare le altre delizie del menù!Un saluto,Branzo staff"
+            },
+            "text": "Il ristorante è piccolo ma accogliente, molto bella la cucina a vista. Il personale è stato gentilissimo. Abbiamo assaggiato il fish-burger con tartare di salmone e tonno. La qualità degli ingredienti è super. Tutto è curato nel dettaglio, dalle salse abbinate tutte preparate dallo chef alla qualità del pesce. Ci ritorniamo sempre con piacere! ",
+            "title": "fish-burger eccellenti ",
+            "username": "Valgimigli"
+        },
+        {
+            "date": "2019-09-13",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie cara, per esser venuta da branzo e aver collezionato tutte queste esperienze positive. Capisco che è difficile rinunciare ad un buon fish burger, sono tutti molto particolaie, e chi meglio di te lo può confermare :-)Ti aspettiamo presto per provare anche gli altri piatti,Un salutone,Branzo staff"
+            },
+            "text": "Non dico di essere una cliente abituale, ma quasi.Al momento, le volte in cui sono stata da Branzo, ho preso solo fish burgers, ma prima o poi assaggierò anche il resto!Ho provato il burger col salmone scottato sia in tartar, col tonno, la versione speciale col gambero e quello con le seppie fritte. Tutti strabuoni, da leccarsi baffi e dita!Anche le persone che ho portato con me ne son sempre rimasti entusiasti.Servizio curato e locale minimal che ci sta assai.",
+            "title": "Una garanzia",
+            "username": "Ricciolimoltorossi"
+        },
+        {
+            "date": "2019-09-13",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Molte grazie Alice per averci lasciato questa fantastica recensione. Il limited con le seppie fritte è piaciuto veramente tanto e le patatine del contadino sono fenomenali. Speriamo di rivederti presto!Un saluto,Branzo staff"
+            },
+            "text": "Sono stata catturata da una sponsorizzazione su Instagram, quindi ho voluto provare la loro cucina. Personale gentile e molto accogliente. Ho preso il panino della settimana, con seppie fritte, burrata, insalatina e pinoli: fantastico, un vero piacere per il palato! ...e poi le patatine che accompagnano il panino, sono la ciliegina sulla torta!",
+            "title": "Da provare assolutamente",
+            "username": "Alice C"
+        },
+        {
+            "date": "2019-09-13",
+            "rating": 1.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Caro Cliente,apprezziamo molto il suo feedback! Ci dispiace che il suo giudizio non sia totalmente positivo e ci risulta di difficile comprensione perché Il salmon burger è uno dei panini più amati dai nostri clienti. Le foglie intere di menta non sono presenti nello stesso, ma erano contenute nel limited che venne fatto a fine Luglio, forse lei ha assaggiato quello e si confonde con l'altro.Speriamo di rivederla presto e sarà nostra cura offrirle una migliore esperienza.Un saluto, lo staff"
+            },
+            "text": "Decisi di andare da Branzo per la pubblicità sui social e perchè i panini ispiravano veramente tanto. Presi il panino col il salmone scottato, ricotta, pesto di menta e mandorle (credo). Il salmone non era scottato ma totalmente crudo. Fosse stato di qualità, saporito o più sottile l'avrei anche accettato, ma per come mi è stato portato era difficile da mangiare. L'ho fatto anche assaggiare alla mia amica per accertarmi non fosse un mio problema, stessa reazione. Come se non bastasse non c'era il pesto di menta bensì foglie intere di menta, messe come insalata. La quantità era così eccessiva che il sapore della menta copriva tutto e ho dovuto toglierne alcune fette, altrimenti tutto insieme il panino sarebbe risultato immangiabile.",
+            "title": "Panino pessimo",
+            "username": "k_diblasio"
+        },
+        {
+            "date": "2019-09-13",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "La verità è che noi siamo brantastici proprio perché i nostri clienti sono incredibili, e tu ne sei l'esempio :-) Molte grazie per averci lasciato questa fantastica recensione. Speriamo di rivederti presto!Un saluto da branzo!"
+            },
+            "text": "Ogni volta Branzo è sempre una piacevole scoperta! Menù vario e qualità del cibo eccellente con personale super disponibile e professionale! I prezzi per essere un ristorante di pesce in centro sono onesti e giusti per ciò che si mangia! ",
+            "title": "Brantastico!",
+            "username": "chupitafurious"
+        },
+        {
+            "date": "2019-09-13",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie per essere venuto da branzo e per aver usato il tuo tempo per scrivere questa recensione. La tua opinione è molto importante per noi e siamo felici di averti soddisfatto, ti aspettiamo presto!"
+            },
+            "text": "Personale super cordiale, locale raffinito, pulito, e nonostante il cibo buonissimo di qualità e il servizio i prezzi non sono elevati! Approvato! Quando un locale merita bastano poche parole a descriverlo :)",
+            "title": "Tutto ottimo!",
+            "username": "maviseco"
+        },
+        {
+            "date": "2019-09-13",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Roberta, per esser venuta da branzo e per aver dedicato parte del tuo tempo lasciando questa bella recensione. Ti aspettiamo presto!Un salutone da branzo."
+            },
+            "text": "Ottime proposte, innovative, qualità e creatività che non si trovano altrove a Pisa e tutto al giusto prezzo! Uno dei miei posti preferiti sicuramente! Ho provato sia la pasta che i secondi, tutto buono! i panini sono il loro piatto forte!! Bravi",
+            "title": "Da provare, non ve ne pentirete",
+            "username": "Roberta A"
+        },
+        {
+            "date": "2019-09-13",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Molte grazie Lola, per i tuoi complimenti. Hai descritto con accuratezza gli aspetti ai quali teniamo, non essere convenzionali, la qualità delle materie prime ed il servizio rapido ed accogliente. Grazie per esser venuta da noi e ti aspettiamo presto,Un abbraccio."
+            },
+            "text": "Sito in una zona di ristoranti turistici e/o toscani, questo locale rompe gli schemi con una cucina di pesce non convenzionale. La location un po' freddina ed essenziale, con tavoli piccoli ti fa capire che non è da pranzi domenicali di 3 ore. I piatti che arrivano ti dicono subito che c'è attenzione per ciascun piatto: tonno, salmone, gamberi...di ottima qualità frutto di sperimentazione, sapori nuovi e abbondanza di cibo. Pochi piatti ma ben fatti...e poi il fish burger che SPACCA! Straordinario il servizio che riesce ad essere veloce anche con il locale pieno. Bravissimi!",
+            "title": "Ottimo pesce in un ristorante non convenzionale!",
+            "username": "lolaPisa"
+        },
+        {
+            "date": "2019-09-12",
+            "rating": 3.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Salve Marco, ci scusiamo per il disagio che ti abbiamo creato, ma come avrai visto c’era molta confusione e la cucina si è accorta solo all’ultimo che l’orata del fuori menù era terminata e non sarebbe riuscita ad evadere tutte le richieste. Spero che riuscirai ad assaggiarla la prossima volta che verrete, tuttavia sei stato un po’ severo, queste tre stelle ⭐️ ⭐️⭐️ non ce le meritavamo "
+            },
+            "text": "Il Branzo è una certezza a Pisa, se vuoi mangiare pesce di qualità. Vista e gusto sono soddisfatti. Il personale è gentile e normalmente professionale. Tuttavia, se mi dai un fuori menù l'orata, devi accettarti prima che ciò che proponi ci sia.Francamente visto il piccolo disguido, anche se risolto senza traumi, mi aspettavo un piccolo sconto. Lo Dico senza filtri e senza presunzione, perché è un posto che mi pace particolarmente .Consiglio dunque di fare maggior lavoro di squadra. Detto questo tornerò volentieri. ",
+            "title": "Cibo top, servizio da rivedere ",
+            "username": "marcot136"
+        },
+        {
+            "date": "2019-09-11",
+            "rating": 5.0,
+            "text": "In città è davvero difficile trovare del buon pesce: Branzo è la soluzione. Dal crudo al cotto, un menù molto originale e sfizioso",
+            "title": "Il pesce più buono della città",
+            "username": "Vio126"
+        },
+        {
+            "date": "2019-09-09",
+            "rating": 4.0,
+            "text": "Locale in pieno centro, molto curato e accogliente, con cucina a vista. Abbiamo ordinato un antipasto di fiori di zucca fritti accompagnati da una salsa piccante e ripieni di patate e pesce (salmone e gamberi, se non sbaglio) da dividere in due (in foto potete osservare solo metà del piatto, perché avevo dimenticato di fare la foto!). Un antipasto molto sfizioso. Poi abbiamo preso una porzione di tonno in crosta di pane servito con del purè di patate e una porzione di ravioli ripieni di branzino decorati con una salsa alle zucchine e tre gamberi. Tutto molto buono e delicato, e soprattutto curato nell'aspetto. Abbiamo accompagnato la cena con due calici di Vermetino e una bottiglia d'acqua naturale. Totale: 65 euro.",
+            "title": "Ottima cena di pesce ",
+            "username": "Marta L"
+        },
+        {
+            "date": "2019-09-09",
+            "rating": 5.0,
+            "text": "Consigliato da conoscenti, ci sono stato con 3 amici...dire che mi ha sorpreso è usare un eufemismo!!!Abbiamo provato un burger SPAZIALE, accompagnato da un ottimo Franciacorta.Personale cortese e simpatico.CONSIGLIATISSIMO!!!",
+            "title": "Sorpresa!!!",
+            "username": "simao18_86"
+        },
+        {
+            "date": "2019-09-08",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "E’ stato un piacere servirvi al nostro ristorante… speriamo di potervi rivedere presto, perché sono i clienti speciali che fanno posti speciali.A presto, branzo."
+            },
+            "text": "È la seconda volta che veniamo da Branzo .... materie prime top e freschissime, primi piatti strepitosi, crudite super favolose ecc ecc. Voto 10..!!! Dimenticavo; personale efficiente, veloce e molto professione oltre che simpatico. Ritorneremo sicuramente.",
+            "title": "Un compleanno in famiglia superlativo ",
+            "username": "romolop901"
+        },
+        {
+            "date": "2019-09-08",
+            "rating": 5.0,
+            "text": "Sono stato più volte in questo ristorante. Molto carino (differente dai soliti ristoranti di Pisa). Piatti buoni e belli, ottima qualità del pesce e prezzi accessibili. Ottimo anche per una pausa pranzo! Super consigliato!",
+            "title": "Ristorante fantastico, ottimo rapporto qualità-prezzo",
+            "username": "Gianmariarebecchi"
+        },
+        {
+            "date": "2019-09-04",
+            "rating": 4.0,
+            "text": "Abbiamo preso il polipo come antipasto e fish burger al salmone con patatine. L'antipasto ottimo, il polipo si scioglieva in bocca talmente era morbido, riguardo il fish burger al salmone cotto era buono ma povero di sale peccato :(, le patatine una goduria, ottime e abbondanti. Bella la location, in pieno centro.",
+            "title": "Cenetta piacevole",
+            "username": "claudia g"
+        },
+        {
+            "date": "2019-09-04",
+            "rating": 5.0,
+            "text": "Gusto e piacere di mangiare un panino ,prezzi modici e tanta gentilezza ottimo x pranzo e cena consigliamo",
+            "title": "😋",
+            "username": "Peppealvino72"
+        },
+        {
+            "date": "2019-09-04",
+            "rating": 5.0,
+            "text": "tutto ottimo, pesce fresco cucinato bene, ristorante intimo e graziosissimo, un particolare grazie al personale di sala che ci ha fatto mangiare in meno di mezz'ora data la nostra specifica richiesta. Sono stati splendidi e si mangia da Dio",
+            "title": "Staff e cibo grandiosi",
+            "username": "Giuliana R"
+        },
+        {
+            "date": "2019-09-03",
+            "rating": 5.0,
+            "text": "Quando posso ci vengo è un posto veramente eccezionale. Cibo ottimo servizio spettacolare. Consigliatissimo. ",
+            "title": "Ottimo come sempre ",
+            "username": "carloc864"
+        },
+        {
+            "date": "2019-09-01",
+            "rating": 5.0,
+            "text": "Un polpo morbido e saporito che mi ha conquistato, una tagliata di tonno praticamente perfetta, prezzi più che giusti per una qualità, velocità e cortesia del genere...Ritornerò sicuramente.Grazie Branzo",
+            "title": "Super consigliato",
+            "username": "ErichB108"
+        },
+        {
+            "date": "2019-09-01",
+            "rating": 5.0,
+            "text": "Di passaggio a Pisa ci fermiamo per la seconda volta a Branzo: sempre perfetto. Qualità prezzo ottima, ambiente fresco e giovanile. Dal menù consiglio cruditè e griglia, ma anche i burger sono molto particolari. Nota d'encomio al tonno, una goduria al palato. ",
+            "title": "Stupefacente",
+            "username": "patriziov85"
+        },
+        {
+            "date": "2019-08-30",
+            "rating": 5.0,
+            "text": "Ottimi fishburgers a prezzi davvero onesti!Tantissimo pesce nel panino e patatine fritte davvero troppo buoneCi tornerò molto presto",
+            "title": "Buonissimo",
+            "username": "LampaDinaCla"
+        },
+        {
+            "date": "2019-08-29",
+            "rating": 5.0,
+            "text": "Siamo stati con il mio fidanzato a cena.Abbiamo mangiato molto molto bene.Qualità altissima, hamburger buonissimo!Servizio top! Prezzo vale la pena!!Sicuramente da tornare!!",
+            "title": "Qualità eccellente",
+            "username": "Polett C"
+        },
+        {
+            "date": "2019-08-29",
+            "rating": 4.0,
+            "text": "Ristorante (quasi) perfetto nel suo genere: genere easy direi. Niente di eccessivo, tanto meno i prezzi: si pranza compreso il vino con circa trenta euro, meno se ci si contenta di un panino (del resto molto buono e nutriente con il suo contorno di eccellenti patatine non surgelate). Il locale è elegante ma semplice e informale, la giusta distanza tra i tavoli, nessuna musica a disturbare, il giusto clima, il servizio attento, preciso anche se semplice e informale. Anche la cucina semplice ma magnifica: un polpo alla gallega (o quasi) l'ho mangiato molte volte perché mi piace ma tenero e saporito e bello così soltanto qui. Bella l'apparecchiatura e l'allestimento dei piatti. Bello semplice ed elegante anche il bagno che quando il locale mi piace è per me \"la prova del nove\" e ci vado apposta a controllare. Un unico appunto i dolci: manca qualcosa di particolare, magari semplice ma unico: \"sgroppino\", panna cotta o tiramisù sono davvero squallidi.",
+            "title": "Bravi!",
+            "username": "Cristiana C"
+        },
+        {
+            "date": "2019-08-28",
+            "rating": 4.0,
+            "text": "locale carino ed accogliente, personale disponibile e cosa fondamentale cibo molto buono. Ho mangiato il burger di salmone accompagnato da patatine fritte, assaggiato ostriche, tartare di salmone e tonno in crosta di pane, tutto veramnte molto buono",
+            "title": "MOLTO BUONO",
+            "username": "Roberta P"
+        },
+        {
+            "date": "2019-08-28",
+            "rating": 4.0,
+            "text": "Siamo stati incuriositi dalle recensioni positive e dalle pubblicità con foto degli ottimi piatti serviti in questo ristorante e non siamo rimasti delusi. Le Tartare e le crudite sono veramente buone così come i fish burger e il tonno in crosta di pane. Ottimo rapporto qualità prezzo e personale gentile e cortese.Consigliato agli amanti del pesce fresco.",
+            "title": "Ottimo ristorante di pesce fresco",
+            "username": "andrea12890"
+        },
+        {
+            "date": "2019-08-25",
+            "rating": 5.0,
+            "text": "Abbiamo deciso di provare Branzo dopo un bel po' di tempo mossi dalla curiosità. Già dall'esterno il locale si presenta accogliente e curato nei minimi dettagli. L'interno non delude, anzi... la chicca è la cucina a vista nella saletta interna. Le portate sono abbondanti e la qualità è a dir poco ottima, con proposte ricercate e abbinamenti inaspettati. Personale molto cortese e sempre attento. Torneremo senza ombra di dubbio anche perché il menu è tutto da scoprire... PS: da non tralasciare il conto, giusto rapporto qualità prezzo!",
+            "title": "Fantastica scoperta!",
+            "username": "dinot305"
+        },
+        {
+            "date": "2019-08-25",
+            "rating": 4.0,
+            "text": "I pepi, viste le notevoli recensioni e la voglia di un panino di mare ( difficile da trovare second me -pepa) e visto che siamo fit (il pepo come sempre rompe ) hanno fatto un salto!Abbiamo ordinato un polpo burger e un tonno burger:Deliziosiii va detto che puntano sulla qualità e particolarità e si sente, i sapori e gli abbinamenti superapprovati solo che ci vuole le istruzioni per mangiare il panino perché strabuzza tutto (consigliamo un foglio illustrativo)Per rimanere dei pepi ubriachi abbiamo assaggiato le birre artigianali, anche se non ci possiamo ubriacare visto che è periodo di esami (), dal gusto strano.Location arredata essenziale, carina e semplice.Aaah e le patatine del panino erano buoooonissimeee (la pepa ne vuole un pacco a casa ( voglio anche la salsina ))#superconsigliamo ciacia",
+            "title": "Si ma esplodono 💣 ",
+            "username": "pepiubriachi"
+        },
+        {
+            "date": "2019-08-16",
+            "rating": 5.0,
+            "text": "Cena di compleanno con amici.. tutto buonissimo e pesce freschissimo! Vien voglia di ordinare tutto il menu!Polpette di pesce, filetto di tonno e di salmone, Polpo Burger da urlo!!! Da provare :) ",
+            "title": "SPETTACOLARE!! ",
+            "username": "Valeria O"
+        },
+        {
+            "date": "2019-08-15",
+            "rating": 5.0,
+            "text": "Abbiamo scoperto questo ristoranteattraverso delle buone recensioni dove non possiamo far altro che confermare l'ottimo cibo e in servizio. Personale attento e molto disponibile, abbiamo cenato a base di pesce rivelandosi un ottima scelta. Ottimo il rapporto qualità prezzo. Se torneremo a Pisa di sicuro sarà una nostra tappa.",
+            "title": "Una scoperta...",
+            "username": "stefanobO9996SE"
+        },
+        {
+            "date": "2019-08-15",
+            "rating": 4.0,
+            "text": "Siamo stati in questo locale per cena.Locale molto carino e semplice!Abbiamo preso un primo a testa ed una frittura, che dire, gusti super, sicuramente da tornare!",
+            "title": "Esperienza Super!",
+            "username": "M1071WLfabioc"
+        },
+        {
+            "date": "2019-08-12",
+            "rating": 5.0,
+            "text": "In vacanza per qualche giorno a Pisa ci siamo fermati in questo ristorante, per due volte.Inutile descriverlo...dovete provarlo. Abbinamenti di pesce con salse buonissime.Primi fantastici.Patatine con maionese fatta da loro...un sogno...grazie mille per le bellissime serate. ",
+            "title": "Come farò senza di voi",
+            "username": "513sabrinar"
+        },
+        {
+            "date": "2019-08-12",
+            "rating": 5.0,
+            "text": "Ottimo ristorante di pesce, con piatti curati e di altissima qualità. Personale gentilissimo. Prezzi onestissimi. A due passi dal centro. Andateci.",
+            "title": "Da stella Michelin ",
+            "username": "giampieroc981"
+        },
+        {
+            "date": "2019-08-11",
+            "rating": 5.0,
+            "text": "Arrivato a Pisa,dove mangio?Cerca ,cerca e trovo Branzo!Personale simpatico e preparato,le polpette di pesce sono da urlo!!!Poi poter assaggiare una tartare di tonno con burrata in hamburger non ha prezzo.Pesce ottimo,bravi ragazzi se tornerò a Pisa sarete la mia meta’.",
+            "title": "Cena a Pisa",
+            "username": "R7410ERlucar"
+        },
+        {
+            "date": "2019-08-11",
+            "rating": 5.0,
+            "text": "I piatti sono particolari e buoni, come la materia prima e anche il servizio è ottimo gentile e preparato. Lo consiglio.",
+            "title": "Ottimo locale",
+            "username": "Vittoria M"
+        },
+        {
+            "date": "2019-08-11",
+            "rating": 5.0,
+            "text": "Ottimi piatti e abbinamenti particolari e super azzeccati! I Fish Burger con le patatine del contadino servite con salsa aioli sono deliziosi e anche mia figlia di 10 anni ha apprezzato.Bravo il cuoco !",
+            "title": "The Best in Pisa",
+            "username": "SilviaV973"
+        },
+        {
+            "date": "2019-08-11",
+            "rating": 5.0,
+            "text": "Cibo ottimo, camerieri gentili, servizio impeccabile e prezzi onesti. Anche a volerne trovare per forza, di difetti non ne ha. Più che consigliato!",
+            "title": "Tutto perfetto",
+            "username": "ianus6"
+        },
+        {
+            "date": "2019-08-08",
+            "rating": 5.0,
+            "text": "Piatti fantastici, qualità molto alta, ottimo servizio e prezzi giusti! Torneremo! Il polpo era imbarazzante da tanto che era buono...BURRO! Grazie!",
+            "title": "Perfetto",
+            "username": "Dag1282"
+        },
+        {
+            "date": "2019-08-08",
+            "rating": 5.0,
+            "text": "Questo posto merita 5 stelle piene per la bontà dei piatti, il pesco fresco e di ottima qualità. Carina l’idea di scegliere come comporre le tartare e la grigliata, primi e secondi ricercati. Prezzi onestissimi. L’ultima stella è per lo staff gentilissimo e attento ai dettagli, il cuoco ci ha anche impiattato in due piatti il secondo che abbiamo diviso a metà ❤️Mi dispiace di non aver fatto foto a tutti i piatti che ho ordinato ma era tutto troppo buono e non ho pensato altro che ha gustarli!",
+            "title": "L’angolo del pesce fresco a Pisa 😍",
+            "username": "938samantam"
+        },
+        {
+            "date": "2019-08-07",
+            "rating": 5.0,
+            "text": "Nulla da dire: cibo gustoso ed abbondante, prezzo giusto considerando che è in pieno centro. Merita essere provato. ",
+            "title": "Molto buono ",
+            "username": "Streeme"
+        },
+        {
+            "date": "2019-08-07",
+            "rating": 5.0,
+            "text": "Il locale è semplice ma curato, il personale è gentile ed attento, il cibo è ottimo.Particolare menzione per il panino ai gamberi e funghi porcini, veramente molto gustoso",
+            "title": "Una cena diversa",
+            "username": "sandrot2019"
+        },
+        {
+            "date": "2019-08-04",
+            "rating": 5.0,
+            "text": "Era da un pò che per una ragione o per un'altra non tornavo da Branzo. Ed ho fatto male, perché ieri sera sono stato \"accolto\" in un posto carino, ben gestito, con un personale giovane/informale, ma professionale ed educato.Un Vermentino fresco, con i buonissimi tentacoli, di polpo, ho finalmente assaggiato i ravioli di mare e devo dire che sono ottimi, l'immancabile tonno in crosta di pane (per un must), ma anche la \"scoperta\" di un fritto di gamberoni e totani, ti una qualità eccellente e di una quantità imbarazzante. Niente da dire, per me Branzo è un \"rifermento\"! Bravi e grazie",
+            "title": "Tornarci !!!",
+            "username": "marcobatini2"
+        },
+        {
+            "date": "2019-07-31",
+            "rating": 5.0,
+            "text": "Ci è stato consigliato da un amico e fidandoci ci siamo passati una sera, non c'era posto ma ci hanno comunque sistemato in poco più di 10 min. anche se erano ormai le 22.00. Ci sono piaciuti i modi, il locale e soprattutto il cibo, di qualità e proposto in maniera corretta. Noi ci siamo tornati e lo rifaremo, davvero un bel posto nel centro di Pisa.",
+            "title": "Una piacevole sorpresa....",
+            "username": "inviaggioancheacasa"
+        },
+        {
+            "date": "2019-07-30",
+            "rating": 5.0,
+            "text": "Questo ristorante è ottimo sotto tanti punti di vista. Primo tra tutti la posizione, si trova praticamente in Piazza Cavalieri, nel pieno centro di Pisa, vicinissimo alle maggiori attrazioni della città.Inoltre il cibo è delizioso, di ottima qualità e con ingredienti freschi.Consiglio in modo particolare la Spadellata super!Il personale è gentile ed educato, il rapporto qualità prezzo è molto ragionevole e anche l'interno è pulito e molto curato.Davvero un ottimo posti, ci sono stata diverse volte e mi sono trovata sempre molto bene!",
+            "title": "Ottimo ristorante dove mangiare pesce nel centro di Pisa",
+            "username": "chiaradC2673GR"
+        },
+        {
+            "date": "2019-07-24",
+            "rating": 5.0,
+            "text": "Ottimo posto per mangiare pesce, qualità eccezionale, porzioni abbondanti, prezzi onesti e locale molto bello. Consiglio l'hamburger di tartare di pesce, è spettacolare.",
+            "title": "Delizioso",
+            "username": "Pioneer7163838157383"
+        },
+        {
+            "date": "2019-07-20",
+            "rating": 2.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Giulia, capisco la tua scocciatura, ma purtroppo i piatti che terminano sono sinonimo di freschezza delle materie prime, servendo pesce fresco non accediamo ad una riserva infinita dal congelatore, ma se in una serata come ieri tante persone prendono il tonno, con il turno delle 10 questo potrebbe essere esaurito. Il tonno in crosta viene lavorato il girono in fase di preparazione, impanando la tagliata di tonno con la crosta di pane ed erbe aromatiche in modo che durante il servizio il processo richiedere solo la cottura ed è più veloce. Questa è la ragione per cui dal tonno in crosta, non possiamo ricavare quello al sesamo. Ci dispiace aver creato malumori, ma siamo felici che comunque siete riusciti tutti a trovare qualcosa di vostro gradimento. Vi aspettiamo per provare anche gli altri piatti, Un caro salutoBranzo staff"
+            },
+            "text": "Scrivo questa recensione per spronare il locale, molto carino, a fare di meglio!! Abbiamo cenato durante il secondo turno e purtroppo il cameriere ci ha detto quali erano i piatti fuori menù dimenticandosi di dirci quelli che del menu erano esauriti: mancavano 3 primi su 4, e un secondo su 3. Inoltre, se il tonno in crosta di pane (fuori menù) era presente...come poteva il tonno in crosta di sesamo essere esaurito? La materia prima dovrebbe essere la stessa! Anche per quanto riguarda l’ordinazione degli antipasti è stato commesso un errore, purtroppo non rimediabile perché a quel punto anche quel piatto era terminato!!! Credo sia stata una serata particolarmente sfortunata, ma non si può fare così! Cercate di organizzarvi meglio o di essere sinceri suo cibo che avete da offrire in tarda serata!!!!!",
+            "title": "Si può fare di meglio",
+            "username": "2Giuli"
+        },
+        {
+            "date": "2019-07-07",
+            "rating": 5.0,
+            "text": "Se cerchi un posto dove poter mangiare del buon pesce nel centro di Pisa è il posto giusto! Menu vario , personale disponibile e gentile. Consigliato!!! ",
+            "title": "Ottimo",
+            "username": "Roberto F"
+        },
+        {
+            "date": "2019-07-04",
+            "rating": 4.0,
+            "text": "Incoraggiata dal recensioni siamo andati in 2 coppie. Posto molto carino modern, industrial in centro di PisaPiatti più belli da vedere e leggere che mangiare. Servizio ok, qualità/prezzo 7 su 10.",
+            "title": "Buono ma pensavo meglio",
+            "username": "Nina K"
+        },
+        {
+            "date": "2019-07-03",
+            "rating": 5.0,
+            "text": "Nel giorno più caldo di giugno ho pranzato in questa piacevole e fresca struttura, buona la spadellata e anche il tagliolino, molto buono l'hamburger di salmone e deliziose le patatine fritte, sicuramente da riprovare per esplorare il resto del menù",
+            "title": "davvero carino",
+            "username": "78gabriele"
+        },
+        {
+            "date": "2019-06-24",
+            "rating": 5.0,
+            "text": "Mi sono fermato con la famiglia per pranzare, locale che centra l'idea di fish lab sin dall'ingresso. Interni molto curati come il menu pratico e curato. Tutti i piatti sono stati molto apprezzati e consiglio vivamente di provare il burger al salmone.",
+            "title": "Ottimo pranzo",
+            "username": "al_azzolini"
+        },
+        {
+            "date": "2019-06-16",
+            "rating": 5.0,
+            "text": "Ci siamo fermati per pranzo e siamo stati decisamente molto contenti. Servizio simpatico, belle porzioni e fritture eccezionali! Decisamente raccomandato ",
+            "title": "Frittura fantastica",
+            "username": "GiudittaA19"
+        },
+        {
+            "date": "2019-06-15",
+            "rating": 5.0,
+            "text": "Sicuramente una piacevolissima sorpresa... Pesce buonissimo, noi abbiamo mangiato la tartare di salmone ed il fish burger e ci siamo trovati benissimo. Sicuramente consigliato anche perché a prezzi veramente bassi per la qualità alta. ",
+            "title": "Ottimo pesce ad un prezzo modico",
+            "username": "Gianandrea N"
+        },
+        {
+            "date": "2019-06-14",
+            "rating": 4.0,
+            "text": "Pranzo di sabato, trovato posto per un pelo essendo il locale piuttosto piccolo (attenzione che arrivando dalla strada quasi non si nota). Cucina di pesce, piatti più o meno elaborati, pesce di qualità, dosi un poco ridotte, ma considerando che si trova nel centro di una città molto turistica il prezzo presumo sia anche dovuto a quello... Vino della casa, in bottiglia, buono. Servizio veloce e alla mano.",
+            "title": "Consigliato",
+            "username": "Alessandro B"
+        },
+        {
+            "date": "2019-06-11",
+            "rating": 1.0,
+            "text": "Sicuramente sono io che ho un appetito di ferro e per riempirmi con quei bellissimi piatti avrei dovuto spendere la metà del mio stipendio, ma cavolo! È inaudito andare in un ristorante, spendere 38 euro ed uscire con la fame! Poi, che i piatti siano buoni o meno per me, passa in secondo piano.",
+            "title": "Piatti belli ma miseri per quello che costano! ",
+            "username": "piergiorgiocb"
+        },
+        {
+            "date": "2019-06-10",
+            "rating": 4.0,
+            "text": "Venerdí sera, decidiamo di iniziare il weekend con Branzo...locale che spesso ci ha incuriosito ma che mai abbiamo \"testato\" forse perché da elbani un po' fa strano mangiare pesce in centro a Pisa, in un locale in zona abbastanza turistica e dalle dimensioni cosí piccole. Entriamo, senza aver prenotato ci dobbiamo accontentare degli sgabelli su mensola, non comodissimo devo dire. Ordiniamo 2 fishburger uno con la tartare di tonno e l'altro con gamberi e porcini (il primo molto buono, a nostro gusto migliore rispetto al secondo dai sapori, invece, forse un po' troppo contrastanti) 2 vermentini al calice ed 1 acqua per un totale di 41,00€ forse leggermente alto. È un 3, 5 palline ma arrotondo a 4 per l'originalità e bellezza dei piatti. ",
+            "title": "Branzo a cena",
+            "username": "422carminef"
+        },
+        {
+            "date": "2019-06-08",
+            "rating": 4.0,
+            "text": "Buon posto dove passare una serata tra amici o in coppia. Buoni primi e secondi di pesce, ci sono anche gli hamburger di pesce",
+            "title": "Buoni piatti e bel locale con cucina a vista ",
+            "username": "Pako82d"
+        },
+        {
+            "date": "2019-06-07",
+            "rating": 4.0,
+            "text": "Antipasto OTTIMO, le salse che lo accompagnavano anche meglioPrimo (mio) buono ma niente di speciale, panino (del mio compagno) da sturbo: polpo morbidissimo, mix di ingredienti azzeccatissimo e le patatine che lo accompagnavano anche fatte molto bene. Davvero un buon ristorante",
+            "title": "Un ottimo posto per mangiare pesce",
+            "username": "Mia_211"
+        },
+        {
+            "date": "2019-06-03",
+            "rating": 3.0,
+            "text": "Sono stata in questo locale per cena insieme ad un’amica. Abbiamo ordinato 2 tartare, 1 di salmone e 1 di tonno, entrambe molto buone ma senza nessun tipo di accompagnamento se non mezza fetta di limone. Come secondo abbiamo ordinato salmone e tonno, veramente ottimi e perfetta la cottura, ed un piatto di verdure grigliate. Con 2 calici di vino e 2 caffè abbiamo speso 50€. Tornerò sicuramente. Lo consiglio a chi ama il buon pesce e ha voglia di provare piatti diversi dai soliti.",
+            "title": "Quello che mancava a Pisa",
+            "username": "Cristina S"
+        },
+        {
+            "date": "2019-05-30",
+            "rating": 5.0,
+            "text": "Piccolo locale in centro a Pisa gestito da ragazzi giovani ma preparati,piatti belli da vedere e buoni da mangiare,fritto di pesce spettacolare,il posto è specializzato nei fish burger..,da fotografare e da gustare!",
+            "title": "Piccolo...ma buono..",
+            "username": "giovibec"
+        },
+        {
+            "date": "2019-05-18",
+            "rating": 4.0,
+            "text": "Ci sono stato un giorno della settimana che ho passato lo scorso capodanno a Pisa e devo dire che é stata una piacevole serata con buon cibo e prezzi nella norma.",
+            "title": "Buono",
+            "username": "Agna_11"
+        },
+        {
+            "date": "2019-05-16",
+            "rating": 5.0,
+            "text": "Vedendo le foto da fb ho deciso di provare questo posticino. Molto piccolo, ma minimal a eaacogliente. Il menù è vario, con possibilità di crearti il piatto con monoporzioni. Riesci ad assaggiare un pò di tutto. Le porzioni dei secondi piatti sono giuste e il prezzi è ottimo. Il crudo era buonissimo, per non parlare della griglia che chiedono anche il tempo di cottura desiderato. La tagliata di tonno fenomenale!! Servizio veloce e cordiale. Sicuramente ritornerò.",
+            "title": "piacevole sorpresa",
+            "username": "sara d"
+        },
+        {
+            "date": "2019-05-15",
+            "rating": 5.0,
+            "text": "Consigliato dalla proprietaria del B&B dove soggiornavamo a cui piace tanto, siamo stati in questo locale e ne siamo rimasti davvero colpiti!locale semplice e moderno, gestito da ragazzi giovani ma professionali con un menù molto particolare e in piu piatti del giorno. Abbiamo preso 3 tartare di pesce come antipasto(puoi comporre il tuo piatto di antipasti con ciò che più preferisci), una pita greca con tonno e mela e un primo, davvero molto buono, con pesce di qualità e ben impiattato!una birra, calice di vino, acqua e grappa a 56 euro in totale... Davvero super consigliato! Anche per chi vuole provare solo un pasto veloce con i fish burger, sempre serviti con patatine",
+            "title": "Come ce lo aspettavamo!",
+            "username": "sissymissy2018"
+        },
+        {
+            "date": "2019-05-15",
+            "rating": 5.0,
+            "text": "Ho scelto questo posto nel centro di Pisa per una cena con un’amica, spinte dalla curiosità di assaggiare i Fish Burger, di cui avevo già sentito parlare. Davvero ottimi! Tanto buoni che sono ritornata per assaggiare anche sia primi che antipasti: Top! Consiglio questo posto sia per il suo menù che vale 5 stelle e sia per le sue caratteristiche estetiche curate, con personale gentile e professionale. ",
+            "title": "Top!",
+            "username": "346marilenar"
+        },
+        {
+            "date": "2019-05-12",
+            "rating": 5.0,
+            "text": "Che bella scoperta, me ne avevano parlato bene, l'ho provato ed è ottimo, consigliatissimo, cibo buono fresco ben cucinato, personale gentile cortese e professionale. Bravissimi. ",
+            "title": "Veramente buono",
+            "username": "carloc864"
+        },
+        {
+            "date": "2019-05-04",
+            "rating": 5.0,
+            "text": "Locale piccolo e carino. Servizio veloce. Abbiamo optato per due fish burger. Un tonno burger e un polpo burger entrambi buonissimi, con un contorno di patate fritte squisite! Assolutamente consigliato.",
+            "title": "Fish burger top!",
+            "username": "Reb16"
+        },
+        {
+            "date": "2019-05-02",
+            "rating": 4.0,
+            "text": "Cibo di alta qualità , prezzo onesto e personale paziente e gentile.Sono capitato in questo ristorante per caso , era vicino al nostro Hotel, da fuori si notano subito i tratti minimal del ristorante. Al suo interno la cucina a vista fa da protagonista , i piatti molto belli! ( e buoni ovviamente! Consiglio di visitare la pagina Instagram) ",
+            "title": "Ci ritorneró sicuramente !",
+            "username": "597michael"
+        },
+        {
+            "date": "2019-05-02",
+            "rating": 4.0,
+            "text": "Sono stata in questo locale il 1 maggio, a pranzo. In due abbiamo ordinato 2 fish burger e una frittura mista. Tutto veramente buono, i totani erano tenerissimi e sia i gamberoni che la tartare di tonno nei panini si scioglievano letteralmente in bocca. Consiglio di provarlo, prezzi onesti, cibo buonissimo e servizio molto rapido. ",
+            "title": "Da provare assolutamente ",
+            "username": "92miriamc"
+        },
+        {
+            "date": "2019-05-01",
+            "rating": 3.0,
+            "text": "Abbiamo mangiato discretamente (fish burger buoni ma nulla di particolare), ma il servizio in generale ha lasciato a desiderare. Prenotato alle 22, ma ci hanno fatto accomodare alle 22.30 perché quelli del tavolo prima non avevano finito. Se non si è in grado di gestire o tavoli, meglio non prendere prenotazioni, no? Ci hanno offerto una cosa da bere per farsi perdonare il ritardo e il gesto è stato gentile, ma non toglie il disagio di dover aspettare fuori. Anche a tavola si poteva fare di più. Diverse cose del menù non erano disponibili perché esaurite, ci hanno portato l'acqua sbagliata e i contorni sono arrivati dopo i panini, a metà cena. Insomma, non abbiamo mangiato male, ma la qualità media del cibo e la gestione titubante della sala, non ci faranno tornare ad assaggiare altro. Ma soprattutto, cosa più importante, a Vincenzo non sarebbe piaciuto.",
+            "title": "Servizio carente",
+            "username": "Andrea C"
+        },
+        {
+            "date": "2019-04-30",
+            "rating": 5.0,
+            "text": "Veramente ottime le materie prime utilizzate.La qualità del pesce si sente nelle vongole, nei gamberi appena scottato e nei totani.E che dire dei fishburger... ne abbiamo preso di diversi tipi : polpo, gamberi cotti con funghi e la specialità del giorno, gamberi crudi con pistacchi, burrata e mortadella, molto buono e molto leggero! Adoro questo posto, tornerò ",
+            "title": "Pesce top",
+            "username": "mlc90"
+        },
+        {
+            "date": "2019-04-28",
+            "rating": 5.0,
+            "text": "Ambiente minimal ma curato nei minimi dettagli, personale molto gentile/cortese e disponibile per qualsiasi richiesta,Cibo ottimo e con delle presentazioni dei piatti ottime sia alla vista che al palato.Niente da dire ottimo ambiente/locale e personale, complimenti bellissimo ristorante di pesce.Consigliassimo se vi trovate in zona Pisa. ",
+            "title": "Soddisfatto",
+            "username": "About_Nico"
+        },
+        {
+            "date": "2019-04-28",
+            "rating": 5.0,
+            "text": "Sosta a Pisa durante un viaggio.Colpiti dal designe minimalista.Staff giovane e competente.Buona immagine con cucina in vista.Pranzo di pesce eccellente, fresco e gustoso.Spaghetti freschi con vongole e burrata.Tonno Rosso in crosta su crema di patate.Panna cotta al cioccolato.\"Sgroppino\" come digestivo.COMPLIMENTI.",
+            "title": "Colpiti dal designe",
+            "username": "DarioV1963"
+        },
+        {
+            "date": "2019-04-28",
+            "rating": 4.0,
+            "text": "Che sorpresa positiva!Posto adatto per mangiare “mare”.Ci siamo trovati in questo posto ben curato ed essenziale con occhiolino alla modernità.Decisamente buoni i piatti compresi i tagliolini al pomodoro, i tagliolini Nero di seppia cozze vongole calamari e scampi, veramente buono il fritto misto ... interessanti le birre proposte, vino al bicchiere con vernaccia convincente.Servizio gentile ed efficiente.Buon prezzo qualità anche se non abbiamo potuto controllare le singole voci.Da tenere sicuramente presente per una sosta di “pesce” con attenzioni attuali.Qualità presente. ",
+            "title": "Qualità di mare a Pisa ",
+            "username": "Rango1"
+        },
+        {
+            "date": "2019-04-28",
+            "rating": 3.0,
+            "text": "Eravamo in quattro abbiamo subito letto il menù e poi hanno avvisato che mancavano diversi piatti di antipasto. Primi buoni anche se in uno si sentiva la sabbia del pesce. Polpo molto buono. Servizio da migliorare. Punto a favore hanno birre particolari. ",
+            "title": "Aspettative alte nulla di che",
+            "username": "sr1710"
+        },
+        {
+            "date": "2019-04-26",
+            "rating": 5.0,
+            "text": "Ho preso un panino da portare via, era la prima volta che ci andavo e devo dire che era molto buono e anche abbondantemente farcito, infatti mi sono sbrodolato nel mangiarlo e poi mi sono reso conto che non mi avevano dato i tovaglioli.. Please la prossima volta mettetemeli non lasciatemi tutto unto per Pisa Sicuramente tornerò, spero presto :) ",
+            "title": "Fish burger ottimo",
+            "username": "joxier"
+        },
+        {
+            "date": "2019-04-24",
+            "rating": 5.0,
+            "text": "Quando si lavora con PASSIONE difficilmente si delude il cliente. Cuoco e staff disponibilissimo. Grazie per aver messo il nostro benessere prima di tutto, venendo incontro ad ogni nostra esigenza! Oltre alla qualità e bonta del cibo ci complimentiamo anche per la presenza graditissima dei singoli piatti. Non vediamo l'ora di tornare per assaggiare i panini. Bravissimi!",
+            "title": "PASQUA",
+            "username": "Sara N"
+        },
+        {
+            "date": "2019-04-24",
+            "rating": 5.0,
+            "text": "Sono stato in questo ristorante per pranzo, durante una gita domenicale, e ne sono rimasto molto soddisfatto sia io che la mia compagna.Locale moderno, personale gentilissimo ed attento.Leggendo il menù viene voglia di ordinare tutto, ma siamo stati attirati dai panini gourmet che vedevamo servire agli altri tavoli e non ci siamo sbagliati.Abbinamenti ottimi delle tartare di tonno e salmone nei panini,si ha la possibilità di scegliere il tipo di pane del panino, patatine particolari e buonissime.Tempi di attesa minimi pur essendo domenica,prezzi giustissimi. Spero che un giorno apriranno un Branzo anche a Roma.",
+            "title": "Ottimo ",
+            "username": "FrancescoPaciotti"
+        },
+        {
+            "date": "2019-04-21",
+            "rating": 5.0,
+            "text": "Pranzo di pasqua, menù alla carta. Ci siamo recati in questo piccolo ristorante spinti dal fatto che mio padre, fortemente intollerante all'aglio e alla cipolla, non poteva usufruire di un menù fisso proposto da tanti altri ristoranti di Pisa che gli avrebbe impedito un tranquillo pranzo pasquale. Non potevamo fare scelta migliore! Il cuoco, così come il personale tutto, si è mostrato sin da subito disponibilissimo ad andare incontro a questa antipatica esigenza, cosa non da poco che sicuramente da sola vale 5 stelle! I piatti gustosissimi confermano la serietà del personale e dello chef. Il conto è onesto, in linea con la qualità del cibo e con la cura con il quale è trattato: 4 antipasti, 2 primi, 4 secondi, 2 contorni, Pinot bianco, acqua e 4 caffè per 150 euro. Molti criticano la sala perché spoglia ma i piatti che escono dalla bellissima cucina a vista sono delle tele che illuminano tutto il locale.Bravi tutti, torneremo presto!",
+            "title": "Pranzo di pasqua",
+            "username": "Ilsuperlativoassolut"
+        },
+        {
+            "date": "2019-04-14",
+            "rating": 5.0,
+            "text": "Cibo ottimo, servizio eccellente, ambiente carino e rilassante. Bella l'idea di poter comporre alcuni piatti come vuole.",
+            "title": "Piacevole sorpresa",
+            "username": "Trail577313"
+        },
+        {
+            "date": "2019-04-09",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Rebecca, siamo felici che tutto sia stato di vostro gradimento e sopratutto che vi sia piaciuto il nostro format, e ne siete uscite pienamente soddisfatte. Ti ringrazio anche per aver dedicato qualche minuto del tuo tempo per condividere la tua esperienza, ci riempire di gioia. Vi aspettiamo presto, un caro saluto"
+            },
+            "text": "Locale situato nel centro di Pisa, piccolo e giovanile, propone un menù a base di pesce, noi in tre abbiamo preso una tartare di tonno e una di gamberi, buonissime si sente che il pesce é fresco, poi abbiamo provato gli hamburger di polpo super buono e di tonno, consigliatissimi, per dolci una panna cotta e un tiramisù e abbiamo speso 20 euro a testa, ottima qualità prezzo, servizio veloce e gentile. Bella l'idea della cucina a vista. Ci voleva a Pisa un localino del genere, super soddisfatta! ",
+            "title": "Pesce fresco!!",
+            "username": "Q1232YNrebeccas"
+        },
+        {
+            "date": "2019-04-08",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Fra, ottima scelta i fish burger, sono molto particolari, ti aspettiamo per assaggiare anche quello di polpo che è squisito. Grazie per la recensione lasciata e per esserci venuta a trovare, a presto."
+            },
+            "text": "Davvero una bella scoperta, locale molto carino e cena buona. Abbiamo preso 2 panini con dentro la tartara di tonno e salmone. Il panino con la tartara di tonno non mi ha colpito particolarmente, ma quello al salmone era davvero molto buono. Prezzo onesto! Lo consiglio!",
+            "title": "Buono",
+            "username": "frarao"
+        },
+        {
+            "date": "2019-04-01",
+            "rating": 4.0,
+            "text": "Ero già stata da branzo e non hanno fatto che confermare la prima esperienza,tutto molto buono,abbiamo mangiato la pasta,le crudite’ e la frittura ed era tutto buonissimo,la prima volta si mangio l’antipasto con cozze e vongole,due tartare e il tonno in crosta...tutto eccellente.Buon cibo a prezzi giusti,consigliatissimo.. unico appunto che fare riguarda il rimbombo se c è troppa gente,metterei qualche pannello per attutire il suono..",
+            "title": "Tutto molto buono",
+            "username": "kate8790"
+        },
+        {
+            "date": "2019-03-18",
+            "rating": 5.0,
+            "text": "Tutto perfetto. Ho mangiato la frittura di pesce, il Gambero Burger con le patatine e il tiramisù come dolce. La frittura era ben fatta e leggera, il pesce era fresco. Gli ingredienti del panino erano equilibrati, infatti al gusto il tutto risultava molto delicato e gustoso. Il tiramisù anch’esso era ben eseguito con la crema che era davvero ottima. ",
+            "title": "Consigliatissimo",
+            "username": "nostoplive"
+        },
+        {
+            "date": "2019-03-08",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ciao Luca, grazie mille per la recensione lasciata e per esser stato da branzo. Ci dispiace per la salatura delle patate, te le avremmo rifatte molto volentieri. Ti aspettiamo presto, un cordiale saluto"
+            },
+            "text": "Menù di pesce con ampia scelta di antipasti, crudité, primi, griglia, secondi e fish burgers. Noi abbiamo provato quest’ultimi, con porzioni abbondanti e ben presentate, contornati di patate fritte. Il conto è giusto, proporzionato alla quantità e qualità del cibo.Le sole pecche sono state le patatine troppo salate e il locale un po’ spoglio. Giudizio comunque molto positivo, da non perdere. ",
+            "title": "Banana con Milka",
+            "username": "Luca M"
+        },
+        {
+            "date": "2019-03-01",
+            "rating": 2.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Salve Alessia, i punti che te hai analizzato come negativi, sono apprezzati dalla maggior parte dei nostri clienti, nonché testimoniati dalle svariate recensioni positive, ma capisco che ogni cliente è unico e vive la propria esperienza. Unica osservazione che mi sento di fare a tuo favore è nella troppa velocità di uscita dei burger, della quale ci scusiamo, per il resto, avete speso 20 euro a testa per una cena di pesce fresco e penso che a meno ci sia giusto il Mc Donald's. Tal volta sarebbe bello capire che dietro i programmi televisivi vi è un copione al quale attenersi e la realtà e ben diversa, per cui ci mettiamo in gioco per crescere e migliorare. Grazie comunque per essere state nostre ospiti, un cordiale saluto"
+            },
+            "text": "Se fossimo a 4ristoranti con Borghese i voti sarebbero i seguenti:LOCATION: 5 - eccessivamente scarna e vuota, rimbombano le voci di tutto il localeMENÙ: 4 - scelta vasta ma piatti non buoni, abbiamo preso tre Hamburger e tutti avevano il pane carbonizzato. Patatine fritte comprese nell'hamburger, pastellate come fossero fritturaSERVIZIO: 3 - camerieri gentili ma super disorganizzati. Frittura arrivata subito e prima che potessimo finirla (10 min scarsi dopo) ci sono stati portati gli hamburgerCONTO: 4 - alto per ciò che abbiamo mangiato, considerato anche il servizio. Abbiamo mangiato con l'imbuto. Vino della casa (non buono) a €12 non si può sentire.Oltre a non tornarci, non lo consiglieremo.",
+            "title": "O è una friggitoria o è branzo",
+            "username": "Alessia D"
+        },
+        {
+            "date": "2019-03-01",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Salve Michela, non vi resta che tornare, anche solo per scattare qualche foto che non siete riusciti a fare al primo round :-) Scherzi a parte, siamo molto felici che vi sia piaciuto tutto e vi aspettiamo per assaporare anche altri piatti del nostro menù, a presto, un salutone"
+            },
+            "text": "Siamo stati a cena in questo ristorante elegante ma molto rilassante e abbiamo mangiato benissimo! Abbiamo ordinato per antipasto la spadellata di mare e due secondi: salmone scottato all'arancia e tagliata di tonno con pistacchi. Da leccarsi i baffi!! Vorrei postare le foto ma.. ci siamo mangiati tutto prima ancora di immortalare i piatti! Consigliatissimo. Torneremo senz'altro.",
+            "title": "Ottima cena",
+            "username": "Michela N"
+        },
+        {
+            "date": "2019-02-27",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Buonasera Laura, siamo molto felici che la location, il servizio ed il nostro menù, nonché le nostre materie prime, abbiamo incontrato a pieno il suo giudizio positivo. Siamo inoltre felici di aver reso speciale la sua cena romantica. L'aspettiamo per assaggiare anche altri piatti del nostro menù, siamo sicuri che riusciremo a saziarvi nel rispetti di un conto onesto :-) A presto, un caro saluto"
+            },
+            "text": "Premetto che siamo venuti una sera per una cena di coppia, con la paura di spendere molto e mangiare poco. Siamo stati accolti dal personale gentilissimo in questa piccola stanza tutta bianca alla fine di un breve corridoio. Fin da subito siamo stati colpiti dall'arredamento semplice ed elegante al punto da sembrare un locale alla moda di Milano.Una volta seduti ci è stato illustrato il menù: antipasti componibili, primi realizzabili con varie tipologie di pasta, secondi, contorni e burgers. Abbiamo optato per un fishburger a testa immaginando che poi avremmo avuto bisogno di altro per saziarci, ma quando abbiamo visto cosa effettivamente fossero questi burgers ci siamo dovuti ricredere! Sono davvero belli grandi, pieni, variegati e saporitissimi, il pesce si scioglie in bocca (in particolare consiglio quello con la tartare di tonno) e sono accompagnati da delle patatine fritte incredibili e da una maionese aromatizzata alla paprika. Nonostante la sazietà abbiamo preso due panne cotte, il vino della casa e una bottiglia d'acqua, per un totale di 47 euro (in due).Ringrazio gli amici del Branzo per questa bella serata, spero di tornare presto",
+            "title": "Non abbiamo trovato difetti",
+            "username": "Laura V"
+        },
+        {
+            "date": "2019-02-26",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Valentina, innanzitutto per esser stata nostra Ospite, le tue parole ci riempiono di orgoglio, stimolandoci in questo percorso. Percorso che ogni giorno portiamo avanti grazie anche a clienti come te, che ci scelgono e vedono oltre, innamorandosi del nostro progetto proprio come abbiamo fatto noi. Noi ci resta che aspettarti a braccia aperte la prossima volta che sarai in visita a Pisa. Un saluto davvero caloroso, a presto."
+            },
+            "text": "Un locale dal gusto minimal, essenziale, dalle linee pulite e dal design leggero. Colpisce subito la cucina a vista sulla sala, che cattura lo sguardo ed incanta i curiosi come me che amano il “dietro le quinte”. In cucina va in scena la passione e la cura nella preparazione dei piatti! Si puó vedere come nasce un piatto ed è veramente bellissimo! Il personale è super attento, gentile e cordiale. Il cibo è prelibato e ha appagato il gusto e la vista...presentazione dei piatti di alto livello cosi come la qualità delle materie prime. Eccezionale! Da dieci e lode!Branzo entra ufficialmente ad essere uno dei miei posti del cuore nonché una tappa fissa per quando tornerò a Pisa Grazie per aver reso il mio pranzo felice ",
+            "title": "Da dieci e lode! ",
+            "username": "valentinaf227"
+        },
+        {
+            "date": "2019-02-26",
+            "rating": 3.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Buonasera, branzo la ringrazia per la recensione lasciata e l'aspetta per assaggiare altri piatti del nostro menù. Ci dispiace che il servizio sia stato distratto nei suoi confronti, speriamo si possa ricredere in un altra occasione. Un cordiale saluto"
+            },
+            "text": "Brano propone un concept moderno sala minimal apperacchiatura semplice. Carta che tende alle nuove mode hamburger di pesce disponibile sia cotto che in tartare. Poca scelta di vini. La cena consumata polpo frittura è alici con salsa yogurt buoni anche se presentavano qualche errore. Servizio distratto",
+            "title": "Pesce buono servizio distratto",
+            "username": "z g"
+        },
+        {
+            "date": "2019-02-23",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Michela, per le belle parole, il piacere è nostro, di avere clienti come voi, che ci danno fiducia e tornano ad assaporare le nostre invenzioni. Grazie anche di aver trovato il tempo per lasciarci questa bella recensione, ne siamo onorati. Vi aspettiamo presto, un saluto da tutto lo staff di branzo."
+            },
+            "text": "Tutto ottimo. È stata la seconda volta che abbiamo cenato in questo speciale ristorante. Abbiamo scelto cose diverse dalla scorsa volta tra cui i tagliolini alle vongole e asparagi buonissimi ( piatto del giorno) e i tagliolini Branzo . Dopo gli hamburger di polpo e quelli di gamberi particolarmente buoni. Personale cordiali e disponibili. Il ristorante merita sicuramente essere frequentato spesso.",
+            "title": "Bella serata",
+            "username": "144michelal"
+        },
+        {
+            "date": "2019-02-22",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Matilde per la recensione lasciata, e per esser venuta da branzo. Ti aspettiamo presto. Un saluto da tutto lo staff"
+            },
+            "text": "Locale molto carino e intimo, personale cordiale e molto efficiente. Cibo ottimo e per un menù di pesce fresco anche il costo é giusto. Lo consiglio vivamente e tornerò presto.",
+            "title": "Cena fra amiche",
+            "username": "1193matildem"
+        },
+        {
+            "date": "2019-02-18",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie ragazze per esser venute da branzo. Siamo molto felici che siete rimaste entusiaste della qualità delle materie prime, del servizio e della location. Cerchiamo ogni giorno di dare sempre il massimo sotto tutti i punti di vista, per cui siamo molto contenti di leggere recensioni come la tua, che ci descrivono così nella nostra essenza.Non vi resta che tornare per assaporare anche ulteriori piatti e nel mentre magari rassoda anche un po' la panna cotta (ci scusiamo, ma per farla sempre fresca magari pecchiamo un po' nella solidità). :-PVi aspettiamo, a presto"
+            },
+            "text": "Dopo aver letto delle recensioni ho voluto provare questo localino. Mi incuriosiva molto la tipologia di piatti che vedevo nelle foto.Il locale non é grandissimo quindi vi consiglio di prenotare il personale é molto gentile preparato.Abbiamo iniziato cin una tartare a testa e cone secondo io ho preso hamburger di polpo e le mie amiche il tonno al sesamo accompagnato da patate al coltello e verdure grigliate.Il pesce veramente buono fresco saporito al punto giusto e allo stesso tempo delicato. Ero molto curiosa di assaggiare l hamburger di polpo e sono rimasta veramente entusiasta il polpo fantastico morbido sapore ottimo.Anche le tartare e il tonno al sesamo erano buonissime. Per finire tre panne cotte una ai frutti di bosco e due alla liquirizia qui come avevo già detto al cameriere mi sembravano un po' liquide ma il sapore molto delicato.Terminato con caffè e accompagnato con il prosecco di valdobbiadene.Noi siamo rimaste veramente soddisfatte e ve lo consiglio per assaporare piatti semplici ma freschi ed innovativi ed un personale giovane e con tanta voglia di fare.Anche i prezzi sono nella linea con quello che abbiamo mangiato.",
+            "title": "Ottima cena con amiche",
+            "username": "marpip"
+        },
+        {
+            "date": "2019-02-15",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Alessio per la recensione lasciata e per esser stato da branzo. Cinque stelle le diamo anche a te che ci hai scelto e sei rimasto entusiasta nel nostro piccolo ristorantino. Ti aspettiamo nuovamente da branzo, un salutonee"
+            },
+            "text": "Veramente squisito, dall'inizio alla fine! Staff gentilissimo e sempre disponibile. 5 stelle tutte meritate! Abbiamo preso un antipasto 2 burger, acqua e caffè per 39 euro. Onestissimo il prezzo per mangiare pesce veramente veramente fresco.",
+            "title": "Eccezionale!",
+            "username": "alekso1411"
+        },
+        {
+            "date": "2019-02-14",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata e per esser stata da branzo. Siamo felici che il menù sia stato di suo gradimento e la ringraziamo anche per la segnalazione dell'odore, cercheremo senz'altro di migliorarci.Un saluto, a presto."
+            },
+            "text": "Ottimo servizio, locale carino dallo stile moderno, con cucina a vista.Abbiamo mangiato fish burger vari, con polpo, gamberi e tartare di salmone, tutti molto buoni. Le patatine fritte molto abbondanti e buone, ma anche un po' pesanti.Unica pecca: fortissimo odore di cucinato (e di fritto), ma forse dovuto alla vicinanza del nostro tavolo alla cucina. ",
+            "title": "Nuovo locale in centro da provare",
+            "username": "PolBetta"
+        },
+        {
+            "date": "2019-02-12",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Buonasera Stefano, grazie per la recensione lasciata e per esser stato nostro ospite, siamo molto felici che i piatti componibili ti siano piaciuti. Per quanto riguarda i vini, abbiamo una carta dei vini, forse per sbaglio non ti è stata consegnata, e non sei riuscito a vedere i prezzi, ci dispiace per l'inconveniente. Il vino della casa, tra l'altro è il primo della lista, è un vino speciale, prodotto da un azienda agricola locale senza l'aggiunta di solfiti, ma solo con uva delle nostre colline, per questo ha un prezzo di 12€. Spero che ti sia piaciuto. Ti aspettiamo nuovamente da noi, un saluto."
+            },
+            "text": "Il menu' si costruisce al tavolo scegliendo come formare i piatti, ben presentati e molto gustosi a base di pesce. Unica nota stonata non c'e' il prezzo dei vini e 12 euro a bottiglia per il vino della casa mi sembra un po' eccessivo, quanto meno scriverlo sul menu'. Comunque bel locale con un 'ottimo chef",
+            "title": "cena con amici",
+            "username": "iw5dry"
+        },
+        {
+            "date": "2019-02-12",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Francesca aver scelto branzo e per la recensione lasciata. Siamo molto felici che tutto sia stato di tuo gradimento e che branzo ti sia piaciuto. Un passaparola come il tuo è fondamentale per farci crescere e ne siamo molto onorati. Ti aspettiamo presto, un salutonee"
+            },
+            "text": "Sono stata oggi a da Branzo con un amico e devo proprio dire CHE BELLA SCOPERTA!!! Pesce buonissimo e cucinato alla perfezione , ricette non banali senza però scadere nelle sempre più frequenti proposte iperelaborate senza un preciso senso !!! Assolutamente andateci, un posto così a Pisa mancava e dobbiamo far in modo che ci rimanga!!!",
+            "title": "Che bella scoperta!!!",
+            "username": "francescabP3745SW"
+        },
+        {
+            "date": "2019-02-06",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie per le belle parole, e per aver scelto branzo, sono le persone come te che ci entusiasmano a fare sempre del nostro meglio. Ti aspettiamo per la tua quarta volta con tante novità. A prestooooo!!!"
+            },
+            "text": "Posticino impeccabile: pesce cucinato molto bene e valorizzato nella sua semplicità, servizio davvero veloce e ambiente molto carino. Consiglio a chi va di prendere il fish burger con contorno di patate fritte fatte da loro (non le solite patatine del junk food). È la terza volta che ci vado...non vedo l’ora della quarta!!!",
+            "title": "ADORO 😍",
+            "username": "iaiafo"
+        },
+        {
+            "date": "2019-02-05",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Matilde, le tue parole ci caricano di entusiasmo, perché esprimono a pieno ciò che vogliamo trasmettere. Grazie davvero per esser stata da noi e ti aspettiamo nuovamente con tante novità!!! Un salutone, a presto!"
+            },
+            "text": "Finalmente a Pisa un ristorante di livello! È la quarta volta che vado da Branzo e ogni volta è una piacevole sorpresa. Tutto impeccabile: camerieri gentilissimi, pesce freschissimo e ottimo rapporto qualità/prezzo. Oltre al fatto che è possibile comporre a proprio piacere piatti di crudo di pesce e grigliate di mare, non perdetevi i Fish Burger... Davvero buonissimi! Provare per credere! Andate da Branzo e sicuramente non resterete delusi!",
+            "title": "In love with Branzo",
+            "username": "656matildef"
+        },
+        {
+            "date": "2019-02-02",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Salve Chicca, squisite parole lasciate in questa recensione ci rendono orgogliosi del lavoro che stiamo svolgendo. Segua le nostre pagine social, così rimarrà aggiornata sulla nostra carta dei dolci che è in fase di ampliamento e su tutte le novità. Torni presto a trovarci, Un cordiale salutoLo staff di branzo"
+            },
+            "text": "Siamo stati a cena in questo piccolo ristorante nel cuore di Pisa aperto da poco. Siamo rimasti entusiasti dal menù (forse solo per i dolci c’è poca scelta) e dalla qualità del pesce, il posto è un po’ piccolo e quindi è difficile trovare posto se non prenotando per tempo. Servizio ottimo, disponibile e veloce! Mancava proprio un ristorante di pesce buono a Pisa. Consigliatissimo!",
+            "title": "Una piacevole sorpresa ",
+            "username": "francesca g"
+        },
+        {
+            "date": "2019-02-02",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "La ringraziamo molto Pippo per la recensione lasciata, siamo contenti di averla avuta nostro ospite e che tutto sia stato di suo gradimento.L’aspettiamo quando vuole per comporsi la sua griglia o per gustare altri piatti del menù,Un caro salutoLo staff di branzo"
+            },
+            "text": "Ottimo ristorante, locale molto curato piatti di qualità, pesce fresco e molto buono. Originale l’idea di scegliere come comporre la propria grigliata, personale gentile e accogliente prezzo giusto per quanto mangiato e per la qualità del pescato. Unico difetto forse troppo piccolo. Consiglio vivamente agli amanti del pesce ",
+            "title": "Eccellente ",
+            "username": "PippoFanta"
+        },
+        {
+            "date": "2019-01-27",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Buonasera, siamo molto felici di aver superato le sue aspettative, cerchiamo sempre di fare del nostro meglio per accontentare il cliente e farlo andar via un po’ come lei “felice e contento”.L’aspettiamo nuovamente da branzo, un caro saluto"
+            },
+            "text": "Sono stata in questo ristorante su consiglio di amiche e le attese sono state rispettate se non addirittura superate. L’ambiente è leggermente spoglio ma nel complesso carino, la cucina a vista fa guadagnare punti. Il servizio premuroso e la cucina stupefacente. Era tutto buono ma la griglia era spettacolare e anche il tonno al sesamo aveva una marcia in più. I prezzi sono giusti. Un antipasto, un po’ di griglia, un primo, un secondo, contorno, dolce, una bottiglia di vino e una di acqua per 77.5€ La serata li vale tutti, ci tornerò sicuramente.",
+            "title": "Ne vale la pena",
+            "username": "Relax87149"
+        },
+        {
+            "date": "2019-01-19",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Salve Nicoletta, grazie per esser venuta da branzo, siamo molto felici che il salmon burger le sia piaciuto. Anche gli altri accostamenti sono molto speciali, per cui la aspettiamo per provare altri piatti. Un cordiale saluto"
+            },
+            "text": "Ho pranzato qui una domenica di dicembre dopo aver corso la Maratona di Pisa, e ho trovato personale CORDIALISSIMO, attento , veloce, qualita molto buona, ho mangiato un panino con tartare di salmone e ricotta che ho trovato eccezionale nell accostamento di sapori e profumi",
+            "title": "Comsigliatissimo",
+            "username": "Nicoletta C"
+        },
+        {
+            "date": "2019-01-02",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per esser venuti da branzo ed altrettante grazie per la preziosa ed accurata recensione, siamo felici che tutto sia stato di vostro gradimento. Vi aspettiamo, un salutone."
+            },
+            "text": "É un nuovo locale in centro a Pisa e...mancava. Vi darà la possibilità di gustare del buon pesce , cucinato “ in diretta” da dietro una vetrata o dei simpatici panini, ricchi e originali, a base salmone , tonno o gamberi. Ogni tanto ci sono dei fuori menù da provare come l’astice . Il servizio é attento, cortese e veloce, anche da pausa pranzo. Il conto é onesto per un pesce fresco, di qualità ",
+            "title": "Buon pesce, servizio cortese, conto corretto",
+            "username": "cicciaPisa"
+        },
+        {
+            "date": "2018-12-22",
+            "rating": 2.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Per un locale piccolo è essenziale lavorare su turni, e questa credo sia una regola non scritta di qualsiasi ristorante/pizzeria. In base a statistiche il tavolo necessità di un tempo x per gustarsi una cena, e se non ritardavi di più di un ora, sarebbe stato più che sufficiente, inoltre eri stata avvertita dalle tue amiche che il tavolo andava lasciato per le 10, per cui sono poche le scuse che alla cassa il personale avrebbe dovuto farti. Essendo stata da noi, puoi aver visto con i tuoi occhi che i ricarichi che noi mettiamo sui piatti sono molto bassi, questo per garantire un rapporto qualità/prezzo eccellente, a maggior ragione il turno è essenziale. Ci dispiace solo che questo abbia causato disservizi durante la serata. Un saluto"
+            },
+            "text": "Sono rimasta molto delusa da questo locale..il menù è ottimo (ho assaggiato le tartare e l'hamburger di pesce), i camerieri gentili e il locale è davvero carino.. peccato che avendo prenotato alle 8 e 30 di sabato sera pretendono che ci si alzi dal tavolo alle 10.. senza aver dato nessun preavviso al momento della prenotazione. Premetto che siamo arrivate in ritardo, ma sarebbe bastato al momento della prenotazione avvisare che il locale fa il doppio turno ed è necessario cenare velocemente.. Non mi è piaciuta la giustificazione della ragazza alla cassa, la quale ci ha detto che il locale deve lavorare velocemente e \"sui numeri \" essendo piccolo e facendo panini... delle scuse sarebbero bastate, pensavo che fosse un locale elegante non un fast food",
+            "title": "Non credo ci tornerò...",
+            "username": "clokk91"
+        },
+        {
+            "date": "2018-12-13",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata da tutto lo staff di branzo!"
+            },
+            "text": "Sono stata a pranzo con un'amica e devo dire che ho fatto un figurone pesce fresco servizio impeccabile buon rapporto qualità prezzo",
+            "title": "Pranzo di coppia",
+            "username": "Donna K"
+        },
+        {
+            "date": "2018-12-11",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Gianluca per la recensione lasciata, ti aspettiamo per provare altri piatti del nostro menù, un caro saluto!"
+            },
+            "text": "Inizialmente perplessi quanto alla quantità dei crudi (peraltro buonissimo), ci siamo innamorati degli ottimi sandwich al pesce.Tartare di salmone e ricotta alla menta... wow!!!!",
+            "title": "Wow!!",
+            "username": "GianlucaN101"
+        },
+        {
+            "date": "2018-12-10",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Maurizio per aver lasciato la tua opinione positiva e per esserci venuto a trovare. Speriamo di rivederti presto. Un saluto da tutto lo staff di branzo"
+            },
+            "text": "Finalmente una alternativa ai soliti ristoranti Pisani tutti uguali. Sono venuto incuriosito, con non troppe pretese ma mi sono ricreduto. Menu interamente di pesce con cruditè, primi piatti con pasta fresca all'uovo di cui è segnato il pastificio nel menù, alcuni secondi, e i fish burger. Consiglio a pranzo al volo un fish burger per fare un pasto sportivo, ma a cena assolutamente giro delle loro cruditè! Quella di gambero era spaziale. Il menù non è troppo vasto come portate ma vario nell'offerta, quindi c'è sempre la possibilità di provare qualcosa di nuovo (oltre ai piatti del giorno).Mi ha colpito molto anche il servizio, in apparenza può sembrare un locale giovanile da fighetti, ma è stato da ristorante di prima linea (non si paga il coperto nota molto positiva)",
+            "title": "Ottima alternativa",
+            "username": "mauriziodb22"
+        },
+        {
+            "date": "2018-12-09",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Aurelia per esserci venuta a trovare e per le belle parole spesa in questa recensione, per noi è molto importante che i clienti siano soddisfatti. Speriamo di rivederti presto, un cordiale saluto"
+            },
+            "text": "Ottimo cibo, servizio eccellente senza attese snervanti. Tentato per curiosità, dato che ci piace mangiare bene e scoprire locali nuovi... Ambiente minimalista ma curato nei dettagli, il proprietario molto gentile e attento alle esigenze del cliente. E in più un’altra cosa importante ... La lista dei vini non casuale! Ottimo, sicuramente da tornare , anche magari per provare i panini. Se siete a Pisa mangiando al Branzo non rimarrete affamati o delusi!",
+            "title": "Nuove scoperte gastronomiche ",
+            "username": "AureliaB180"
+        },
+        {
+            "date": "2018-12-02",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata da tutto lo staff di branzo! Un saluto "
+            },
+            "text": "Siamo stati due volte a pranzo in questo piccolo locale nel cuore di Pisa ed entrambe le volte abbiamo mangiato davvero bene. I piatti sono curati, esteticamente belli, ricercati e davvero buoni, il personale di sala è giovane ma accogliente, gentile e preparato. Molti piatti come la crudité e le grigliate possono essere composti dal clienti, possibilità davvero gradita, la carta dei vini invece è migliorabile. I prezzi sono in linea con il mercato e ottimi se rapportati alla qualità dei prodotti. ",
+            "title": "Già una garanzia",
+            "username": "Andreabacci"
+        },
+        {
+            "date": "2018-11-30",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Salve Fabrizio, ti ringraziamo tanto per la recensione lasciata e per esserci venuto a trovare! Ti aspettiamo per provare altre delizie del nostro menù! Un saluto da tutto lo staff"
+            },
+            "text": "Panino al salmone buonissimo e in quantità più che giusta se si ha fame! Patatine fritte un po' troppo all'odor di crognolo (magari forse è voluto...). Camerieri gentilissimi, e conto nei ranghi previsti: Purtroppo ormai un panino se elaborato e servito con patatine \"artigianali\" pare non potere costare meno di 10 euro praticamente ovunque... (Almeno qua non ti danno gli onnipresenti hamburger...) Per la quinta stella mi riservo di tornarci per provare un pasto più ordinario (interessanti sia i primi che il salmone in agrumi...)",
+            "title": "Un panino di pesce per pranzo",
+            "username": "290fabriziob"
+        },
+        {
+            "date": "2018-11-27",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Arianna per aver lasciato la tua opinione e per aver provato il nostro servizio di take away. Saremo felici di rivederti nel nostro ristorante, un caro saluto"
+            },
+            "text": "Mi sono trovata a Pisa per impegni personali e spinta dalle recensioni e dalle foto dei piatti proposti, mi sono recata appositamente in questo locale per un pranzo veloce ma sfizioso. Sono arrivata tardi, all'incirca alle 14.40 e la cucina chiudeva da lì a poco ma il cameriere mi ha comunque accolto con gentilezza e mi hanno cortesemente preso l ordinazione. Data la giornata di sole ho approfittato per ordinare da asporto e gustare il mio pasto in giro e ho optato per il tunaburger con contorno di patatine fritte. Che dire....il pesce è evidentemente fresco e si sente, accompagnato da fettine di pomodoro e burrata con una salsa verde delicata che ben si sposa con gli altri sapori. Possibilità di scelta tra pane classico o 5 cereali. patatine cucinate fresche e non confezionate, altro elemento che ne esalta gusto e croccantezza.Sarò felice di tornarci e magari gustarmi un pranzo più tranquillo provando altre proposte offerte dal menù. Personale gentile, cordiale e sorridente, il che non guasta mai. Avanti così!!!!",
+            "title": "Ok! Il posto è giusto!",
+            "username": "ariannar87"
+        },
+        {
+            "date": "2018-11-23",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Salve Serena, ti ringraziamo per la recensione lasciata e ti invitiamo a seguire le nostre pagine social poiché ci stiamo organizzando per inserire qualche alternativa per celiaci. Un cordiale saluto a presto!"
+            },
+            "text": "Una piacevole novità a Pisa: un ristorante di pesce di buona qualità a prezzi tutto sommato contenuti. Carina l’idea di poter mettere quantità scelte di tartare o griglia.Peccato che anche in questo caso i pisani non riescano a fare un posto dove un celiaco possa mangiare con serenità ....................",
+            "title": "Carino e diverso dal solito",
+            "username": "82serenab"
+        },
+        {
+            "date": "2018-11-20",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata da tutto lo staff di branzo! Siamo molto entusiasti nel leggere il suo positivo riscontro. Un saluto "
+            },
+            "text": "Se volete mangiare dell’ottimo pesce fresco, preparato in maniera impeccabile e fantasiosa, Branzo Fishlab è il posto giusto per voi. Vi consiglio gli ottimi panini, molto saporiti e ben eseguiti. Finalmente un posto a Pisa dove si mangia veramente bene. Tornerò molto presto",
+            "title": "Stupefacente!",
+            "username": "lucabaldereschi"
+        },
+        {
+            "date": "2018-11-19",
+            "rating": 3.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "La ringraziamo per la recensione lasciata e ci dispiace per l’inconveniente. Come ci insegna la legge di Murphy, se ci sono due o più modi che possono portare ad una catastrofe, il tecnico del condizionatore, in questo caso, applicherà quello :-) battuta a parte, saremo felici di rivedervi nel nostro ristorante e vi porgiamo i nostri migliori saluti"
+            },
+            "text": "Nulla da dire sulla qualità delle materie prime. Il servizio è migliorabile ma comunque accettabile. Unico neo era il freddo all'interno del locale che purtroppo vista la stagione era prevedibile e doveva essere evitato. Avevano accesso il climatizzatore ma non era sufficiente per riscaldare l'ambiente. Spero prendano provvedimenti altrimenti ci rivediamo a maggio.....",
+            "title": "Locale un po' freddino in tutti i sensi:arredamento e temperatura interna",
+            "username": "Navigator62538955125"
+        },
+        {
+            "date": "2018-11-13",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata da tutto lo staff di branzo! Siamo molto lieti di leggere il suo positivo riscontro. Un saluto "
+            },
+            "text": "Ottimo pesce fresco. Menù concentrato. Piatti giusti. Nell’ambiente di design. Scelta giusta torneremo.",
+            "title": "Benissimo",
+            "username": "goldorgolf"
+        },
+        {
+            "date": "2018-11-13",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie molte Michi, per esserci venuto a trovare e per aver dedicato il tuo tempo per lasciarci la tua opinione, siamo felici che tutto sia stato di tuo gradimento! Ti aspettiamo, un saluto da tutto lo staff di branzo "
+            },
+            "text": "Ristorante fantastico. Personale giovane attento e molto disponibile. Servizio curato. Cibo di grande qualita'. Le tartare sono spettacolari cosi come il polpo, l' hamburger di pesce . ottimo il rapporto qualita' prezzo. Merita davvero!",
+            "title": "Pisa non tradisce mai!",
+            "username": "Michi-tripad"
+        },
+        {
+            "date": "2018-11-12",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata da tutto lo staff di branzo! Siamo molto felici che sia stato tutto di vostro gradimento, vi aspettiamo! Un caro saluto "
+            },
+            "text": "Compleanno di mia figlia, regalo per me andare in questo posto!!!Ottimo ottimo ottimo. Amo il posto, l'arredo, il menù... adoro il pesce crudo, buonissimi gli hamburger. Veramente MOLTO originale. Ci tornerò molte volte per assaggiare tutto",
+            "title": "Compleanno",
+            "username": "mlc90"
+        },
+        {
+            "date": "2018-11-10",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata da tutto lo staff di branzo! Siamo molto lieti di leggere il suo positivo riscontro. Un saluto "
+            },
+            "text": "Questo ristorante si segnala per una cucina molto \"fresca\", che esalta il sapore del pesce soprattutto, proponendo abbinamenti delicati. Molto orginale l'hamburgeria di pesce. Ottimo il pesce crudo. Staff molto cortese e disponibile. Assolutamente da provare!",
+            "title": "Per mangiare pesce cucinato in modo diverso dal solito in Toscana",
+            "username": "12LaL89"
+        },
+        {
+            "date": "2018-11-08",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata da tutto lo staff di branzo! Siamo felici nel leggere le sue parole, che spiegano a pieno la nostra filosofia! vi aspettiamo nuovamente con piacere, un cordiale saluto "
+            },
+            "text": "Ricercando nuovi posti in cui cenare, ho trovato questo locale che da subito ha attirato la mia attenzione e leggendo le recensioni non potevo non provarlo...Locale minimal nell'arredamento, ma quando presentano i piatti e li mangi, capisci il perché...i piatti sono i veri protagonisti. Cucina a vista e personale giovane, attento e cordiale. Abbiamo mangiato un antipasto, un primo, due secondi e due dolci, tutto buonissimo! Sicuramente torneremo e lo consiglio vivamente.",
+            "title": "Strabuono!",
+            "username": "GiuliaCooper"
+        },
+        {
+            "date": "2018-11-06",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Simone per la recensione lasciata, un caro saluto da tutto lo staff di branzo"
+            },
+            "text": "Sono andato da Branzo per cena con la mia ragazza, atmosfera moderna ma accogliente, pesce freschissimo e gustoso con un ottimo rapporto qualità prezzo, servizio discreto e cortese. Un ottimo inizio per un attività avviata da poco, da provare i fish burgher",
+            "title": "Novità con sorpresa ",
+            "username": "J1091KQsimonec"
+        },
+        {
+            "date": "2018-11-04",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Noemi per il tuo giudizio positivo, la scelta del fish burger è sempre la migliore. Torna presto per provare anche altre pietanze, un caloroso saluto da tutto lo staff di branzo"
+            },
+            "text": "Finalmente anche a Pisa è possibile assoporare dei piatti ricercati, con ingredienti scelti e di ottima qualità. Locale molto carino, in linea con il gusto contemporaneo, caldo ed accogliente; nonostante sia molto piccolo l’intimità di una chiacchierata tra amici è preservata, grazie a tavoli distanziati tra loro. Consiglio assolutamente i fish burger, accompagnati da delle patatine fritte spaziali. Tartare di tonno memorabile. L’unica pecca: la prima volta in cui ho mangiato in questo ristorante è stato servita ad inizio pasto una polpettina di pesce di benvenuto. Questa volta è stata “dimenticata”; forse a causa dell’affluenza del sabato. Inoltre, anche le dimensioni della tartare rispetto alla prima volta mi sono sembrate molto ridotte. In ogni caso, è un ristorante molto valido.",
+            "title": "Una gustosa sorpresa",
+            "username": "Noemi P"
+        },
+        {
+            "date": "2018-11-04",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Elena per esser venuta a trovarci e per aver lasciato questa fantastica recensione. Siamo felici che tutto sia stato di tuo gradimento e non vediamo l’ora di riaverti nel nostro ristorante, un caro saluto"
+            },
+            "text": "Ieri sera io ed il mio ragazzo siamo andati a cena da Branzo, incuriositi dalla location accogliente e di design! La cucina in vista, pulita ed efficiente, è davvero geniale! Abbiamo mangiato una tartare di salmone e tonno ed una spadellata: favolosi entrambi, pesce fresco e saporito! Dopo abbiamo preso una tagliata di tonno al sesamo nero: eccezionale! Tutto corredato da un servizio al tavolo veloce e super cordiale! Ci ritorneremo!!!",
+            "title": "Pesce eccezionale...sotto la Torre!!! ",
+            "username": "elenabE8020SH"
+        },
+        {
+            "date": "2018-11-04",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Lorenzo per la fantastica recensione lasciata, è stato un piacere servirti al nostro ristorante. Speriamo di rivederti presto, un caro saluto da tutto lo staff di branzo!"
+            },
+            "text": "Siamo stati a cena io e la mia compagna, Location assolutamente originale molto stile minimal chic, come consigliato cena a base di pesce , tartare di tonno e salmone a seguire una splendida tagliata di tonno impanata con sesamo nero.. tutto assolutamente perfetto, l’equilibrio dei sapori, la presentazione dei piatti, la professionalità e la location alla moda, fanno di questo locale l’ambiente che mancava in città.. un posto dove si respira la freschezza di chi si mette in gioco con grande entusiasmo e professionalità.",
+            "title": "Posto Top",
+            "username": "lorenzo_lazzeroni"
+        },
+        {
+            "date": "2018-10-28",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata da tutto lo staff di branzo! Un saluto "
+            },
+            "text": "Piatti semplici ma originali. Accoglienza, tranquillità e professionalità. Carta dei vini un po' scarna ma buona, adatta al posto. Da provare. Qualità prezzo.",
+            "title": "Pesce semplice e di qualità",
+            "username": "escalama91"
+        },
+        {
+            "date": "2018-10-28",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata da tutto lo staff di branzo! Siamo molto lieti di leggere il suo positivo riscontro. Vi aspettiamo, un caro saluto "
+            },
+            "text": "Un.pesce cosi fresco e cosi buono era tanto che non lo mangiavo. Abbiamo preso la spadellata e il polpo. Ottimi veramente... cozze e vongole freschissime e il polpo si sciolgieva in bocca. Dopo il fisch burgher... oltre ad essere buonissimo, carina come idea. Complimenti. Ci torneremo sicuramente. Se proprio devo trovare un qualcosa da modificare, l ingresso con i tavoli, un po asettico e poco accogliente. Per il resto ottimo ristorante e personale gentile.",
+            "title": "Pesce buonissimo",
+            "username": "lauracasalini80"
+        },
+        {
+            "date": "2018-10-26",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Marco per la recensione lasciata da tutto lo staff di branzo, un caro saluto"
+            },
+            "text": "Cameriera cortese, gentile ed affabile. Qualità prezzo ottima. Location forse troppo fredda e tropo illuminata. Composizione piatti top.Qualità cibo ottima ",
+            "title": "Pesce fresco e dove trovarlo",
+            "username": "marcot136"
+        },
+        {
+            "date": "2018-10-26",
+            "rating": 5.0,
+            "text": "Un ambiente confortevole,personale attento,tutto curato nel dettaglio,consigliato per occasioni importanti o anche solo per coccolarsi...Buono il rapporto qualità prezzo",
+            "title": "Anniversario",
+            "username": "Donna K"
+        },
+        {
+            "date": "2018-10-21",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Eva per la piacevole recensione è molto bello leggere i vostri feedback positivi. Ti aspettiamo alla prossima, un caro saluto"
+            },
+            "text": "Locale nuovo, essenziale ma curato con cucina a vista. Il menù è molto vario: oltre ad antipasti, primi e secondi si può scegliere come comporre il proprio piatto di crudo o la grigliata. Molto invitanti anche i panini di pesce con patatine. Il personale è attento e cortese, il pesce cucinato alla perfezione. Consigliatissimo!",
+            "title": "Ottimo ristorante di pesce",
+            "username": "EvaD89"
+        },
+        {
+            "date": "2018-10-20",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Molte grazie Emanuele, siamo felici che tutto sia stato di tuo gradimento, ti aspettiamo presto per provare anche altre portate, un caro saluto da tutto lo staff!"
+            },
+            "text": "Locale molto accogliente e discreto, pesce di ottima qualità, in particolare buonissime le tartare di salmone. Interessante la possibilità di comporre a proprio piacimento le portate di pesce crudo e di pesce alla griglia. Una piacevole sorpresa. Ottimo rapporto qualità-prezzo. Torneremo al più presto. ",
+            "title": "Eccezionale! ",
+            "username": "emanuelep947"
+        },
+        {
+            "date": "2018-10-19",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Giuseppina per esserci venuta a trovare, per noi è stato un piacere. Siamo felici che tutto le sia piaciuto ed abbia lasciato la sua positiva opinione. Un caro saluto da tutto lo staff di branzo"
+            },
+            "text": "Posticino fantastico per tutto ma soprattutto per la bontà dei piatti. Fritto e patatine fritte unici! Staff gentilissimo. Tutto perfetto, bravi!",
+            "title": "Se lo provi non lo lasci più.",
+            "username": "Giuseppina18"
+        },
+        {
+            "date": "2018-10-14",
+            "rating": 4.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Raf per la recensione lasciata, e per aver sottolineato la qualità dei nostri prodotti, è veramente una delle cose sulle quali noi puntiamo di più. Speriamo di poterla rivedere presto e migliorare la sua esperienza. Un caro saluto"
+            },
+            "text": "Ristorante molto semplice, ma la cosa più importante appena si entra si ha subito un'impressione di pulito e tranquillità. Piacevole la presenza di giovani camerieri desiderosi di dare il meglio. Simpaticissimo il menù , che con pochi piatti di a base di pesce, offre un grande ventaglio di qualità. Si direi che alla base del ristorante c'é la qualità dei prodotti scelti con cura e ben proposti anche alla vista. Da non perdere i tentacoli di polpo su una base eccezionale come antipasto, veramente gustosi . Buona scelta di vini. Unico difetto é stato il tempo troppo lungo intercorso tra antipasto e primo. Spero che sia stato un caso .Sicuramente ripeteremo l'esperienza, considerando che il rapporto qualità/prezzo é veramente ottimo.",
+            "title": "Ottima novità",
+            "username": "RafPisa"
+        },
+        {
+            "date": "2018-10-13",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Marco per la recensione lasciata. Un caro saluto da tutto lo staff di branzo"
+            },
+            "text": "Un ristorante dove si mangia prodotti di assoluta qualità. Cottura del tonno in crosta perfetta, polpo croccante caramellato ottimo, perfino le patate fritte sono squisite. Gestito da \"giovani\", con professionalità e cortesia. Grazie, a prestissimo",
+            "title": "Bravi !",
+            "username": "marcobatini2"
+        },
+        {
+            "date": "2018-10-12",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata, la aspettiamo presto per provare anche altre pietanze. Un caro saluto da tutto lo staff di branzo"
+            },
+            "text": "finalmente qualcosa di particolare a Pisa! un fischiar con prodotti di qualità che esce dalle solite proposte mediocri di Pisa.ho assaggiato un po' di tutto, crostacei crudi, tartare e piatti cotti. la prossima volta proverò anche i burger.se dovessi pensare a qualcosa da migliorare penserei alla carta dei vini.comunque complimenti! inutile dire che ci tornerò sicuramente",
+            "title": "finalmente!",
+            "username": "Carlotta V"
+        },
+        {
+            "date": "2018-10-12",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata da tutto lo staff di branzo! Siamo molto lieti di leggere il suo positivo riscontro. Un saluto "
+            },
+            "text": " Io è mia moglie, leggendo le recensioni, lo abbiamo provato. I piatti sono belli da vedere ma sopratutto sono buonissimi. Non è il solito ristorante che mascherano il sapore del pesce, tutt'altro al Branzo senti il profumo del mare. I piatti sono contornati da salse che non coprono il sapore del pesce, inoltre il prezzo è ottimo. Consigliato. ",
+            "title": "Perfetto ",
+            "username": "Santo965"
+        },
+        {
+            "date": "2018-10-11",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Andress per la recensione lasciata, un saluto da tutto lo staff di branzo"
+            },
+            "text": "Sono appena uscita dal branzo ho cenato divinamente con una tartare di tonno cosa dire buonissima mai mangiata così",
+            "title": "Da dieci",
+            "username": "Andress V"
+        },
+        {
+            "date": "2018-10-11",
+            "rating": 1.0,
+            "text": "Mamma mia... Spinto dalle recensioni entro in questo locale ma ne sono restato molto deluso. All'occhio sono dei piatti molto belli, ma al palato niente di che. Sono uscito con la fame; porzioni piccole e prezzi elevati. Il pesce non credo nemmeno che fosse fresco. ",
+            "title": "Peggio di così non poteva andare!",
+            "username": "marco8888fi"
+        },
+        {
+            "date": "2018-10-11",
+            "rating": 1.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Ci dispiace non aver incontrato il suo gradimento sulla qualità del nostro pesce, cosa che a pieno titolo garantiamo perché ci arriva fresco tutti i giorni. Se però vuole passare una qualsiasi mattina alle 8 circa può constatarlo con i suoi occhi! La ringraziamo comunque per il tempo dedicatoci, un cordiale saluto"
+            },
+            "text": "Mi spiace non essere in linea con le recensioni acquisite ma non posso esimermi da dare un giudizio pessimo per quanto riguarda il pesce spacciato per fresco quando invece era palesemente di cattivo sapore e ben lontano da essere fresco ....",
+            "title": "Spiace",
+            "username": "Paolo S"
+        },
+        {
+            "date": "2018-10-09",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Simone per la recensione lasciata. Avete avuto modo di assaggiare diverse portate, e siamo felici che siamo state tutte di vostro gradimento. Un caro saluto da tutto lo staff di branzo, e vi aspettiamo presto!"
+            },
+            "text": "Nuovo locale, moderno e personale molto gentile. Ci hanno accolto con un piccolo antipasto offerto dalla casa. La scelta del menù è giusta, non è estremamente ampia ma sicuramente di qualità. In due abbiamo preso una tartare di gamberi e una di salmone come antipasto per seguire con una pasta allo scoglio e con un fish burger con pane ai 5 cereali, tartare di tonno, burrata, pomodori e olio di basilico servito con delle patate fritte che, personalmente, sono state fatte in modo eccezionale. Per finire un ottimo dolce della casa e caffè per un totale di 56 € con tanto di vino. Qualità prezzo davvero eccezionale e sicuramente cucina di qualità sopra la media.CONSIGLIATISSIMO!",
+            "title": "TOP",
+            "username": "Simone A"
+        },
+        {
+            "date": "2018-10-08",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie per esser venuto al nostro ristorante, e per aver usato il suo tempo per scrivere questa recensione, la sua opinione è molto importante per noi. Un caro saluto"
+            },
+            "text": "Piacevole scoperta a Pisa.Locale minimalista, ma molto piacevole.Ottimo cibo e buon rapporto qualità prezzo.Personale gentile e attento.Punto a favore la cucina a vista.Ritornerò sicuramente",
+            "title": "Buon pesce a Pisa",
+            "username": "francyViterbo_Italia"
+        },
+        {
+            "date": "2018-10-07",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Salve Michele, è stato un piacere servirla nel nostro ristorante, la ringraziamo per la recensione lasciata ed il tempo dedicatoci. Un caro saluto "
+            },
+            "text": "Il Cuoco/Proprietario di questo innovativo e moderno progetto di fish lab ha saputo con tradizione ed innovazione a portare in centro a Pisa piatti di pesce dall'aspetto e dal gusto assolutamente fantastico. Consiglio vivamente di provarlo per chi passa da Pisa . Cucina a vista e servizio d'eccezione completano il profilo di questo magnifico ristorante. ",
+            "title": "Come fare un tuffo in mare ",
+            "username": "Michele A"
+        },
+        {
+            "date": "2018-10-04",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Molte grazie per la recensione lasciata, siamo felici che tutto sia stato di suo gradimento. Un cordiale saluto"
+            },
+            "text": "Buon impatto visivo, moderno e minimalista anche se in pieno centro storico. Cucina a vista molto pulita. Personale gentile e disponibile. Menù invitante e Cibo ottimo, consiglio il tonno in crosta, una prelibatezza. Prezzi nella media.",
+            "title": "Ottimo",
+            "username": "rimiccim"
+        },
+        {
+            "date": "2018-10-03",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille Antonella per esser venuta al nostro ristorante e per aver dedicato parte del suo tempo per lasciare questa positiva review, ne siamo onorati! La aspettiamo a nuovamente al nostro ristorante, un cordiale saluto"
+            },
+            "text": "Ottimo cibo e di qualita', ottimo servizio e personale carinissimo, Ottimo rapporto qualita'/prezzo. Consigliatissimo!",
+            "title": "Bella Sorpresa",
+            "username": "T6192YCantonellac"
+        },
+        {
+            "date": "2018-10-02",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie mille per la recensione lasciata da tutto lo staff di branzo! Siamo molto felici di leggere il suo positivo riscontro. Un saluto "
+            },
+            "text": "Al centro di pisa ,solo pesce,con piatti ottimi , abbondanti e personale gentile ! Consigliatissimo !",
+            "title": "Buonissimo",
+            "username": "MELE8"
+        },
+        {
+            "date": "2018-10-02",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Grazie Molte Silvia per la recensione lasciata, per noi è molto importante che i clienti siano soddisfatti! Ti aspettiamo presto, un caro saluto"
+            },
+            "text": "Un opera d'arte firmata dal sapore inconfondibile di chi sa cucinare con amore e passione...assolutamente consigliato,da provare.",
+            "title": "Eccellente",
+            "username": "Silvia P"
+        },
+        {
+            "date": "2018-09-30",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Molte grazie per la recensione lasciato, la sua opinione è molto importante per noi, e siamo felici che sia positiva. La aspettiamo, alla prossima! Un caro saluto"
+            },
+            "text": "Ottimo ristorante, servizio veloce. Piatti eleganti. Qualità/prezzo eccellente! Pesce freschissimo. Consigliato ✅",
+            "title": "Top",
+            "username": "Sightseer122577"
+        },
+        {
+            "date": "2018-09-29",
+            "rating": 5.0,
+            "reply": {
+                "owner": "chiara g",
+                "text": "Siamo molto felici di leggere la sua recensione e che avete apprezzato il nostro locale e la vostra cucina! Vi aspettiamo nuovamente da noi, un caro saluto"
+            },
+            "text": "Sono venuto a pranzo con amici: Locale bellissimo, cucina ottima!Qualità dei piatti eccellente, consiglio vivamente!",
+            "title": "Ottimo!",
+            "username": "Elpasko C"
+        },
+        {
+            "date": "2018-09-28",
+            "rating": 4.0,
+            "text": "Nuovo ristorante di pesce a Pisa con prodotti e cucina di ottimo livello. Da segnalare la grigliata sia per la bontà che per l’idea di poter comporre a proprio piacimento il piatto, pagando a consumo. Una stella in meno per la cantina ancora decisamente scarna. ",
+            "title": "Cena",
+            "username": "giovasantarelli"
+        },
+        {
+            "date": "2018-09-22",
+            "rating": 5.0,
+            "text": "Finalmente non c'è più bisogno di andare a Marina di Pisa per mangiare dell'ottimo pesce.Complimenti per tutto ragazzi, dal menù alla qualità dei prodotti, alla presentazione dei piatti, al rapporto qualità prezzo, all'assenza di quelle foto orribili acchiappa turisti all'esterno. Continuate così",
+            "title": "Finalmente",
+            "username": "Gualtiero B"
+        },
+        {
+            "date": "2018-09-22",
+            "rating": 5.0,
+            "text": "Aperto da circa un mese Branzo è ciò che mancava nel centro di Pisa! locale bellissimo, minimal ,curato nei minimi dettagli; personale giovanissimo , attento a tutto e con tanta voglia di fare! Ma veniamo al dunque, il cibo è superlativo, il menù permette di accontentare ogni tipo di palato e tasca, dai fish burger (10/13€) Al filetto di tonno (13/16) tutto è perfetto, freschissimo e gustoso. Consiglio vivamente di chiedere quali sono le novità del giorno, perché lo chef crea piatti unici in base al pescato! É già la seconda volta in poche settimane che torno, ma sono sicura che diventerà una piacevole abitudine ! ",
+            "title": "una bellissima sorpresa",
+            "username": "marym616"
+        },
+        {
+            "date": "2018-09-18",
+            "rating": 4.0,
+            "text": "Chi ben comincia.... che dire... il finale è facile! Aperti da nemmeno un mese... se già neonati offrono questo tipo di ristorazione faranno strada. E' un fish lab nel senso proprio della parola... piatti di pesce con materia prima di alto livello trattata da mani molto delicate. Bello il locale in stile minimal, davvero \"stiloso\" l'impiattamento... mai banale nemmeno per un \"fushburger con patatine fritte\"... scritto tra virgolette perchè nn è assolutamente fast food ma extremely slow food. Noi abbiamo provato due panini a base di tartare di tonno e salome grigliato. Squisiti. C'è poco da aggiungere. Torneremo per provare gli altri piatti \"veri e propri\" che abbiamo visto uscire... Davvero un plauso allo staff giovane e motivato. Consiglio di aggiungere alla carta delle birre artigianali da 50 o 75cl perchè, sop",
+            "title": "La prima è buona :D",
+            "username": "AlessandroM869"
+        },
+        {
+            "date": "2018-09-18",
+            "rating": 4.0,
+            "text": "cibo eccellente e ben lavorato. Sicuramente c'è da ampliare e migliorare la lista dei vini per stare in linea con la qualità del cibo. Rapporto qualità/prezzo assolutamente buono. Sono giovani e da \"Molto Buono\" mi aspetto un \"Eccellente\" in futuro",
+            "title": "Largo ai giovani",
+            "username": "Alessandro O"
+        },
+        {
+            "date": "2018-09-17",
+            "rating": 5.0,
+            "text": "Solo pesce in tutte le sue accezioni. Cotto crudo in panino. Prezzi piu` che onesti. Personale gentile. Locale piccolo e molto carino (stile industriale). Bravi!",
+            "title": "Ci voleva!`",
+            "username": "Goghy80"
+        },
+        {
+            "date": "2018-09-14",
+            "rating": 5.0,
+            "text": "Branzo è stato una piacevole new entry a Pisa. La qualità del pesce è ottima, i prezzi assolutamente onesti e le quantità abbondanti. A fine cena eravamo soddisfattissimi. I gestori sono ragazzi giovani e la loro voglia di fare e mettersi in gioco è un valore aggiunto. Ci tornerò sicuramente. Consigliatissimo!",
+            "title": "Pesce di qualità a prezzi onesti",
+            "username": "ginag09"
+        },
+        {
+            "date": "2018-09-11",
+            "rating": 5.0,
+            "text": "Abbiamo cenato in questo ristorante provando la loro spadellata super e i due hamburger alla tartare di tonno e di salmone.Tutti i piatti sono risultati ottimi, in particolare l'hamburger al tonno.Servizio ottimo, cucina in vista e prezzi adeguati perché ce la siamo cavata con una spesa di 44€(coperto gratuito).",
+            "title": "Piacevole scoperta",
+            "username": "gioele c"
+        },
+        {
+            "date": "2018-09-09",
+            "rating": 5.0,
+            "text": "Siamo stati a cena il 9/09 da Branzo. Ho optato per un menù completo composto da piatto di crudité, tagliatelle in pasta fresca alle vongole, fritto misto di pesce e sgroppino, il tutto accompagnato da un delizioso vermentino. Locale giovane, sia nello stile che nello staff, chef incluso. I piatti sono ben composti, la materia prima è di ottima qualità e sapientemente trattata dallo chef.Ottima scoperta! Esperienza da ripetere. Avanti tutta!",
+            "title": "Ottima sorpresa",
+            "username": "ClaudioL1"
+        },
+        {
+            "date": "2018-09-09",
+            "rating": 5.0,
+            "text": "Materie prime freschissime, cura ed elaborazione delle pietanze eccellente, sintesi di innovazione nella presentazione e sapienti abbinamenti di sapori.Il locale è giovane, minimal es illuminato in modo confortevole.Tocco di classe la cucina a vista, che coinvolge i commensali nella trasformazione e nelle creazioni culinarie.Tappa obbligata per assaporare pesce freschissimo.",
+            "title": "È arrivato il pesce fresco in centro a Pisa",
+            "username": "Lalla2610"
+        },
+        {
+            "date": "2018-09-09",
+            "rating": 5.0,
+            "text": "Posto appena aperto consigliato da un conoscente...che dire, tutto perfetto. Anche se piccolo all'interno il locale si presenta come luogo al contempo raffinato, fresco e giovanile. Cucina a vista punto in più. Super consigliate le cruditè (tartare) e la griglia: qualità del pesce notevole ad un costo irrisorio. Piatti che meritano un encomio anche per la presentazione (complimenti allo chef) oltre al sapore. Bravissimi",
+            "title": "Sublime",
+            "username": "patriziov85"
+        },
+        {
+            "date": "2018-09-06",
+            "rating": 5.0,
+            "text": "Ci siamo andati su consiglio di un amico, locale molto carino e minimal, il personale molto cortese, il pesce ottimo con un' ottima qualità/prezzo... Sicuramente ci torneremo ad assaggiare le altre portate del menu... consigliatissimo!",
+            "title": "Bella scoperta",
+            "username": "Voyage781567"
+        },
+        {
+            "date": "2018-09-06",
+            "rating": 5.0,
+            "text": "Di recente apertura, Branzo propone una interessante selezione di piatti di pesce: antipasti, primi, crudi e grigliate che possono essere composti e variati secondo il gusto individuale. Uno staff giovane e dinamico presenta i piatti con competenza e cortesia. Ottimi il polpo grigliato su crema di gamberi e pecorino, la tartare di gamberi, il calamaro alla griglia. Complimenti allo chef! Vale la pena di tornare anche per l’ottimo rapporto qualità-prezzo.",
+            "title": "Piacevole scoperta nel centro di Pisa !",
+            "username": "Maria Vittoria B"
+        },
+        {
+            "date": "2018-09-05",
+            "rating": 4.0,
+            "text": "I piatti che abbiamo provato erano ottimi, atmosfera tranquilla, camerieri gentili e disponibili nella presentazione del menu, buon rapporto qualità prezzo.",
+            "title": "Ottima novità a Pisa",
+            "username": "paolosB8317SP"
+        },
+        {
+            "date": "2018-09-05",
+            "rating": 5.0,
+            "text": "Passavo per caso con la mia famiglia , dall esterno un ristorante semplice ma invitante . Ho avuto L impressione di pulito . Cucina a vista , tutto ordinato personale cordiale e gentile . IL MENU VASTO E PESCE FRESCO cucinato benissimo! Lo consiglio ci ritornerò !!",
+            "title": "Un pranzo da ricordare",
+            "username": "Martina D"
+        },
+        {
+            "date": "2018-09-04",
+            "rating": 5.0,
+            "text": "Ottima cena di ottimo e fresco pesce, servizio assai gentile e mai fuori luogo. Prezzo più che ragionevole per la qualità del cibo che viene proposto. Assolutamente consigliato!",
+            "title": "La qualità al giusto prezzo!",
+            "username": "Gaahl66"
+        },
+        {
+            "date": "2018-09-01",
+            "rating": 5.0,
+            "text": "Mi sono recata qui a pranzo per caso con le mie die figlie. Abbiamo mangiato ottimi puatti a base di pesce di alta qualità. Io ho preso uno scoglio con la possibilità di scegliere tre tipi di pasta tutti fatti a mano. Le bimbe hanno mangiato un hambuger con tartare di tonno veramente squisito. Per non parlare drlle patate che finalmente etano fresche e fatte con una procedura particolare. Per quello che abbiamo mangiato abbiamo speso il giusto, ci hanno fatto oure le sconto e finalmwnte non hanno cobsiderato il coperto. Da tornarci.Dimenticavo la frittellina di pesce con salse a bbase di pesce che ci hanno portato nell'attesa...ottima",
+            "title": "Ottimo pesce",
+            "username": "938ele"
+        },
+        {
+            "date": "2018-09-01",
+            "rating": 5.0,
+            "text": "Spettacolare. Abbiamo preso il polipo, la frittura la grigliata che puoi comporre come vuoi! Qualità veramente alta e prezzi veramente nella norma. Complimenti e un grosso in bocca al lupo visto che siete aperti da poco! Tiramisù e sgroppino al limone buonissimi Peccato che che siate a Pisa e noi a Trento!Un'altra lieta sorpresa è stata il conto. Per quel che abbiamo mangiato e bevuto abbiamo speso solo 50€.Consigliatissimo a chi piace il buon pesce!",
+            "title": "Ottimo e inaspettato ",
+            "username": "lucamazzu"
+        },
+        {
+            "date": "2018-08-30",
+            "rating": 5.0,
+            "text": "Locale nuovo nel centro di Pisa, piatti belli da vedere e,soprattutto, buonissimi! Abbiamo preso il tentacolo di polpo che era meraviglioso, è raro mangiare un polpo così tenero!! Tartare di gambero eccezionale.. i tagliolini \"branzo\" davvero ben conditi e i fish burger sembravano uno più buono dell'altro,noi abbiamo preso quello al tonno, davvero squisito!!! I dolci poi... LIBIDINE!!! Insomma, straconsiglio il posto per la qualità e l'originalità dei piatti.. io ci tornerò senz'altro!",
+            "title": "Buonissimo!",
+            "username": "LuisaG930"
+        },
+        {
+            "date": "2018-08-29",
+            "rating": 5.0,
+            "text": "Scoperto per caso durante una passeggiata.. Top in tutto..Locale carinissimo personale gentile e rapporto qualità prezzo ottimo.. Polpo Burger buonissimo, patate eccezionali.. Primi piatti eccellenti.. Ci tornerò spesso.. Consigliatissimo... ",
+            "title": "Super !!!!!!!",
+            "username": "Laura L"
+        },
+        {
+            "date": "2018-08-29",
+            "rating": 5.0,
+            "text": "Una piacevole scoperta.. Posto elegante e curato nel dettaglio, personale cortese, titolare socievole e brillante.. Cibo di qualità nettamente superiore alla media.. Prezzi alla portata di ogni esigenza.. Cosa dire... Finalmente qualcosa di interessante..",
+            "title": "Meraviglioso !!!",
+            "username": "Giovanni I"
+        },
+        {
+            "date": "2018-08-29",
+            "rating": 5.0,
+            "text": "Buona cucina e posto Accogliente da ritornare e se passata da pisa fate un salto non ve ne pentirete",
+            "title": "Ottimo",
+            "username": "Daniele N"
+        },
+        {
+            "date": "2018-08-29",
+            "rating": 5.0,
+            "text": "Ristorante eccellente cucina ottima pesce freschissimo , locale molto curato personale giovane e dinamico insomma tutto molto buono",
+            "title": "Top",
+            "username": "LelioL15"
+        },
+        {
+            "date": "2018-08-29",
+            "rating": 5.0,
+            "text": "Locale accogliente, personale gentile e sempre disponibile a ogni nostra richiesta, cucina eccellente!!!IL TOP!!!",
+            "title": "Torneremo a trovarvi!!!",
+            "username": "Nicola V"
+        },
+        {
+            "date": "2018-09-02",
+            "rating": 5.0,
+            "username": "567pieterjanf"
+        },
+        {
+            "date": "2018-08-28",
+            "rating": 5.0,
+            "username": "beniamino1693"
+        }
+    ]
+}
