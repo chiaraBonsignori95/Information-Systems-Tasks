@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.AdministratorFirstSceneController">
+   <children>
+      <MenuBar stylesheets="@application.css">
+        <menus>
+          <Menu mnemonicParsing="false" text="Naviga">
+            <items>
+                  <MenuItem mnemonicParsing="false" onAction="#onMainPageRequest" text="Torna alla pagina iniziale" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#onCloseWindow" text="Chiudi" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Aiuto">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#onHelpRequest" text="Su Ar' Tocco!" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <AnchorPane minHeight="600.0" minWidth="800.0" styleClass="form" stylesheets="@application.css" VBox.vgrow="ALWAYS">
+         <children>
+            <VBox alignment="CENTER" AnchorPane.bottomAnchor="200.0" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" AnchorPane.topAnchor="100.0">
+               <children>
+                  <TextField fx:id="username" alignment="CENTER" promptText="Username" styleClass="form-field" stylesheets="@application.css">
+                     <VBox.margin>
+                        <Insets bottom="10.0" />
+                     </VBox.margin></TextField>
+                  <PasswordField fx:id="password" alignment="CENTER" promptText="Password" styleClass="form-field" stylesheets="@application.css">
+                     <VBox.margin>
+                        <Insets bottom="5.0" top="10.0" />
+                     </VBox.margin>
+                  </PasswordField>
+                  <Button fx:id="login" contentDisplay="CENTER" defaultButton="true" mnemonicParsing="false" onMouseClicked="#onLogin" stylesheets="@application.css" text="Accedi">
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                     <styleClass>
+                        <String fx:value="general-button" />
+                        <String fx:value="form-button" />
+                     </styleClass>
+                  </Button>
+               </children>
+            </VBox>
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>

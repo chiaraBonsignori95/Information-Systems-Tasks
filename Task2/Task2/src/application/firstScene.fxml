@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.FirstSceneController">
+   <children>
+      <MenuBar stylesheets="@application.css">
+        <menus>
+          <Menu mnemonicParsing="false" text="Naviga">
+            <items>
+                  <Menu mnemonicParsing="false" text="Accedi come...">
+                    <items>
+                      <MenuItem mnemonicParsing="false" onAction="#onLoginAsRestaurantOwner" text="Ristoratore" />
+                      <MenuItem mnemonicParsing="false" onAction="#onLoginAsAdministrator" text="Amministratore" />
+                    </items>
+                  </Menu>
+                  <SeparatorMenuItem mnemonicParsing="false" />
+              <MenuItem mnemonicParsing="false" onAction="#onCloseWindow" text="Chiudi" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Aiuto">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#onHelpRequest" text="Su Ar' tocco!" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <AnchorPane minHeight="600.0" minWidth="1000.0" VBox.vgrow="ALWAYS">
+         <children>
+            <Label styleClass="question" stylesheets="@application.css" text="Dove vuoi andare?" AnchorPane.leftAnchor="341.0" AnchorPane.rightAnchor="341.0" AnchorPane.topAnchor="81.0" />
+            <VBox fx:id="resturantViewer" styleClass="cities-panel" stylesheets="@application.css" AnchorPane.leftAnchor="218.0" AnchorPane.rightAnchor="218.0" AnchorPane.topAnchor="142.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox minHeight="800.0" minWidth="2000.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.AdministratorLoggedController">
+   <children>
+      <MenuBar stylesheets="@application.css">
+        <menus>
+          <Menu mnemonicParsing="false" text="Naviga">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#onSetPreviousPage" text="Logout" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#onCloseWindow" text="Chiudi" />
+               </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Aiuto">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#onHelpRequest" text="Su Ar' tocco!" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <TabPane fx:id="tabPane" prefHeight="200.0" prefWidth="200.0" side="LEFT" stylesheets="@application.css" tabClosingPolicy="UNAVAILABLE" tabMinWidth="130.0" VBox.vgrow="ALWAYS">
+        <tabs>
+          <Tab text="Cancella Utente">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" styleClass="right-panel" stylesheets="@application.css">
+                     <children>
+                        <VBox alignment="CENTER" layoutX="78.0" layoutY="78.0" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0">
+                           <children>
+                              <VBox alignment="TOP_CENTER" spacing="50.0">
+                                 <children>
+                                    <TextField fx:id="searchedUsername" alignment="CENTER" promptText="Username" styleClass="general-text-field" stylesheets="@application.css" />
+                                    <HBox alignment="CENTER" stylesheets="@application.css">
+                                       <children>
+                                          <RadioButton fx:id="customerRadioButton" mnemonicParsing="false" styleClass="label" text="Utente">
+                                             <toggleGroup>
+                                                <ToggleGroup fx:id="Type" />
+                                             </toggleGroup>
+                                             <HBox.margin>
+                                                <Insets />
+                                             </HBox.margin>
+                                          </RadioButton>
+                                          <RadioButton fx:id="restaurateursRadioButton" contentDisplay="RIGHT" mnemonicParsing="false" nodeOrientation="LEFT_TO_RIGHT" styleClass="label" text="Ristoratore" toggleGroup="$Type" HBox.hgrow="NEVER">
+                                             <HBox.margin>
+                                                <Insets left="50.0" />
+                                             </HBox.margin>
+                                          </RadioButton>
+                                       </children>
+                                       <VBox.margin>
+                                          <Insets />
+                                       </VBox.margin>
+                                    </HBox>
+                                    <Button fx:id="buttonDeleteUser" minWidth="200.0" mnemonicParsing="false" onAction="#onDeleteUserRequest" stylesheets="@application.css" text="Elimina">
+                                       <styleClass>
+                                          <String fx:value="general-button" />
+                                          <String fx:value="form-button" />
+                                       </styleClass>
+                                    </Button>
+                                 </children>
+                              </VBox>
+                           </children>
+                        </VBox>
+                     </children></AnchorPane>
+            </content>
+          </Tab>
+          <Tab fx:id="tabPendingRequest" text="Richieste Pendenti">
+            <content>
+              <AnchorPane>
+                     <children>
+                        <SplitPane dividerPositions="0.2" layoutY="14.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                          <items>
+                              <ListView fx:id="restaurantViewerNotApproved" minWidth="200.0" prefHeight="759.0" prefWidth="324.0" styleClass="left-panel" stylesheets="@application.css" />
+                            <AnchorPane styleClass="right-panel" stylesheets="@application.css">
+                                 <children>
+                                    <VBox spacing="50.0" AnchorPane.leftAnchor="30.0" AnchorPane.topAnchor="50.0">
+                                       <children>
+                                          <HBox spacing="200.0">
+                                             <children>
+                                                <VBox spacing="10.0" styleClass="right-panel-list-container">
+                                                   <children>
+                                                      <HBox spacing="20.0">
+                                                         <children>
+                                                            <Label minWidth="-Infinity" prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" stylesheets="@application.css" text="Nome:">
+                                                               <HBox.margin>
+                                                                  <Insets />
+                                                               </HBox.margin>
+                                                            </Label>
+                                                            <TextField fx:id="nameNotApproved" alignment="CENTER" disable="true" editable="false" minWidth="-Infinity" prefWidth="400.0" promptText="Nome" styleClass="right-panel-value" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox spacing="20.0">
+                                                         <children>
+                                                            <Label minWidth="-Infinity" prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" stylesheets="@application.css" text="Numero di telefono:">
+                                                               <HBox.margin>
+                                                                  <Insets />
+                                                               </HBox.margin>
+                                                            </Label>
+                                                            <TextField fx:id="phoneNumberNotApproved" alignment="CENTER" disable="true" editable="false" minWidth="-Infinity" prefWidth="400.0" promptText="Numero di telefono" styleClass="right-panel-value" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox spacing="20.0">
+                                                         <children>
+                                                            <Label minWidth="-Infinity" prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" stylesheets="@application.css" text="Indirizzo:">
+                                                               <HBox.margin>
+                                                                  <Insets />
+                                                               </HBox.margin>
+                                                            </Label>
+                                                            <TextField fx:id="addressNotApproved" alignment="CENTER" disable="true" editable="false" minWidth="-Infinity" prefWidth="400.0" promptText="Indirizzo" styleClass="right-panel-value" />
+                                                         </children>
+                                                      </HBox>
+                                                      <HBox layoutX="10.0" layoutY="190.0" spacing="20.0">
+                                                         <children>
+                                                            <Label minWidth="-Infinity" prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" text="Fascia di prezzo:">
+                                                               <HBox.margin>
+                                                                  <Insets />
+                                                               </HBox.margin>
+                                                            </Label>
+                                                            <TextField fx:id="priceRangeNotApproved" alignment="CENTER" disable="true" editable="false" minHeight="-Infinity" prefWidth="400.0" promptText="Intervallo di prezzo" styleClass="right-panel-value" text="Fascia di prezzo" />
+                                                         </children>
+                                                      </HBox>
+                                                   </children>
+                                                </VBox>
+                                                <VBox minWidth="-Infinity" spacing="10.0" styleClass="right-panel-list-container" stylesheets="@application.css">
+                                                   <children>
+                                                      <Label styleClass="right-panel-property" stylesheets="@application.css" text="Orari di apertura:" />
+                                                      <ListView fx:id="timetablesRestaurantNotApproved" prefHeight="100.0" styleClass="right-panel-list">
+                                                         <VBox.margin>
+                                                            <Insets left="20.0" />
+                                                         </VBox.margin></ListView>
+                                                   </children>
+                                                </VBox>
+                                             </children>
+                                          </HBox>
+                                          <HBox minWidth="-Infinity" prefWidth="400.0" spacing="20.0">
+                                             <children>
+                                                <VBox minWidth="-Infinity" spacing="10.0" styleClass="right-panel-list-container" stylesheets="@application.css">
+                                                   <children>
+                                                      <Label styleClass="right-panel-property" stylesheets="@application.css" text="Tipi di cucina:">
+                                                         <VBox.margin>
+                                                            <Insets />
+                                                         </VBox.margin>
+                                                      </Label>
+                                                      <ListView fx:id="typeOfCookingNotApproved" maxHeight="100.0" minWidth="350.0" styleClass="right-panel-list">
+                                                         <VBox.margin>
+                                                            <Insets left="20.0" />
+                                                         </VBox.margin></ListView>
+                                                   </children>
+                                                </VBox>
+                                                <VBox minWidth="-Infinity" spacing="10.0" styleClass="right-panel-list-container">
+                                                   <children>
+                                                      <Label styleClass="right-panel-property" text="Cucine particolari:">
+                                                         <padding>
+                                                            <Insets bottom="10.0" />
+                                                         </padding>
+                                                      </Label>
+                                                      <ListView fx:id="optionsNotApproved" maxHeight="100.0" minWidth="350.0" styleClass="right-panel-list">
+                                                         <VBox.margin>
+                                                            <Insets left="20.0" />
+                                                         </VBox.margin></ListView>
+                                                   </children>
+                                                </VBox>
+                                                <VBox spacing="10.0" styleClass="right-panel-list-container">
+                                                   <children>
+                                                      <Label styleClass="right-panel-list-property" text="Servizi aggiuntivi:">
+                                                         <VBox.margin>
+                                                            <Insets bottom="10.0" />
+                                                         </VBox.margin>
+                                                      </Label>
+                                                      <ListView fx:id="featuresNotApproved" maxHeight="100.0" minWidth="350.0" styleClass="right-panel-list">
+                                                         <VBox.margin>
+                                                            <Insets left="20.0" />
+                                                         </VBox.margin></ListView>
+                                                   </children>
+                                                   <HBox.margin>
+                                                      <Insets />
+                                                   </HBox.margin>
+                                                </VBox>
+                                             </children>
+                                             <VBox.margin>
+                                                <Insets />
+                                             </VBox.margin>
+                                          </HBox>
+                                          <HBox alignment="CENTER" spacing="100.0">
+                                             <children>
+                                                <Button minWidth="200.0" mnemonicParsing="false" onAction="#onRefuseRestaurantRequest" stylesheets="@application.css" text="Rifiuta ristorante">
+                                                   <styleClass>
+                                                      <String fx:value="general-button" />
+                                                      <String fx:value="form-button" />
+                                                   </styleClass></Button>
+                                                <Button fx:id="buttonAcceptRestaurant" minWidth="200.0" mnemonicParsing="false" onAction="#onAcceptRestaurantRequest" stylesheets="@application.css" text="Accetta ristorante">
+                                                   <styleClass>
+                                                      <String fx:value="general-button" />
+                                                      <String fx:value="form-button" />
+                                                   </styleClass></Button>
+                                             </children>
+                                             <VBox.margin>
+                                                <Insets />
+                                             </VBox.margin>
+                                          </HBox>
+                                       </children>
+                                    </VBox>
+                                 </children>
+                              </AnchorPane>
+                          </items>
+                        </SplitPane>
+                     </children></AnchorPane>
+            </content>
+          </Tab>
+            <Tab text="Inserisci Amministratore">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" styleClass="right-panel" stylesheets="@application.css">
+                     <children>
+                        <VBox alignment="CENTER" styleClass="right-panel" stylesheets="@application.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <HBox alignment="CENTER">
+                                 <children>
+                                    <GridPane alignment="CENTER" nodeOrientation="LEFT_TO_RIGHT" stylesheets="@application.css" vgap="50.0">
+                                      <columnConstraints>
+                                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="100.0" minWidth="10.0" prefWidth="100.0" />
+                                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="210.0" minWidth="10.0" prefWidth="210.0" />
+                                      </columnConstraints>
+                                      <rowConstraints>
+                                        <RowConstraints maxHeight="35.200004959106444" minHeight="10.0" prefHeight="28.799985885620117" vgrow="SOMETIMES" />
+                                        <RowConstraints maxHeight="32.800014114379884" minHeight="10.0" prefHeight="32.800014114379884" vgrow="SOMETIMES" />
+                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                      </rowConstraints>
+                                       <children>
+                                          <Label text="Nome:" />
+                                          <Label text="Cognome:" GridPane.rowIndex="1" />
+                                          <Label text="Username:" GridPane.rowIndex="2" />
+                                          <Label text="Password:" GridPane.rowIndex="3" />
+                                          <TextField fx:id="newName" alignment="CENTER" maxWidth="294.0" prefHeight="25.0" prefWidth="294.0" promptText="Nome" styleClass="general-text-field" stylesheets="@application.css" GridPane.columnIndex="1" />
+                                          <TextField fx:id="newSurname" alignment="CENTER" promptText="Cognome" styleClass="general-text-field" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                                          <TextField fx:id="newUsername" alignment="CENTER" promptText="Username" styleClass="general-text-field" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                                          <TextField fx:id="newPassword" alignment="CENTER" promptText="Password" styleClass="general-text-field" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                                       </children>
+                                    </GridPane>
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER">
+                                 <children>
+                                    <Button alignment="CENTER" minWidth="250.0" mnemonicParsing="false" onAction="#onAddNewAdministrator" stylesheets="@application.css" text="Inserisci Amministratore">
+                                       <styleClass>
+                                          <String fx:value="general-button" />
+                                          <String fx:value="form-button" />
+                                       </styleClass>
+                                    </Button>
+                                 </children>
+                                 <padding>
+                                    <Insets top="50.0" />
+                                 </padding>
+                              </HBox>
+                           </children>
+                           <padding>
+                              <Insets bottom="100.0" left="100.0" right="100.0" top="100.0" />
+                           </padding>
+                        </VBox>
+                     </children></AnchorPane>
+               </content>
+            </Tab>
+            <Tab onCloseRequest="#onHelpRequest" text="Cancella Recensione">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" styleClass="main-panel">
+                     <children>
+                        <VBox layoutX="14.0" spacing="30.0" stylesheets="@application.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="50.0">
+                           <children>
+                              <HBox alignment="CENTER">
+                                 <children>
+                                    <GridPane hgap="30.0" vgap="30.0">
+                                      <columnConstraints>
+                                        <ColumnConstraints maxWidth="150.0" minWidth="10.0" />
+                                        <ColumnConstraints minWidth="10.0" />
+                                      </columnConstraints>
+                                      <rowConstraints>
+                                          <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                      </rowConstraints>
+                                       <children>
+                                          <Label stylesheets="@application.css" text="Ristorante:" GridPane.rowIndex="1" />
+                                          <TextField fx:id="reviewRestaurantName" alignment="CENTER" prefWidth="300.0" promptText="Nome" styleClass="general-text-field" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                                          <TextField fx:id="reviewUsername" alignment="CENTER" prefWidth="300.0" promptText="Username" styleClass="general-text-field" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                                          <Label text="Utente:" GridPane.rowIndex="2" />
+                                          <Button mnemonicParsing="false" onAction="#onSearchReviewRequest" prefWidth="200.0" stylesheets="@application.css" text="Cerca">
+                                             <styleClass>
+                                                <String fx:value="general-button" />
+                                                <String fx:value="form-button" />
+                                             </styleClass></Button>
+                                       </children>
+                                    </GridPane>
+                                 </children>
+                              </HBox>
+                              <SplitPane dividerPositions="0.2" prefHeight="160.0" prefWidth="200.0" VBox.vgrow="ALWAYS">
+                                <items>
+                                    <ListView fx:id="reviewViewer" styleClass="left-panel" />
+                                    <VBox alignment="CENTER" styleClass="right-panel">
+                                       <children>
+                                          <GridPane alignment="CENTER" hgap="20.0" vgap="20.0" VBox.vgrow="ALWAYS">
+                                            <columnConstraints>
+                                              <ColumnConstraints hgrow="NEVER" minWidth="100.0" />
+                                              <ColumnConstraints hgrow="SOMETIMES" maxWidth="400.0" minWidth="500.0" prefWidth="500.0" />
+                                            </columnConstraints>
+                                            <rowConstraints>
+                                              <RowConstraints maxHeight="40.0" minHeight="10.0" prefHeight="40.0" vgrow="SOMETIMES" />
+                                              <RowConstraints maxHeight="40.0" minHeight="10.0" prefHeight="40.0" vgrow="SOMETIMES" />
+                                              <RowConstraints maxHeight="40.0" minHeight="10.0" prefHeight="40.0" vgrow="SOMETIMES" />
+                                                <RowConstraints maxHeight="40.0" minHeight="100.0" prefHeight="100.0" vgrow="SOMETIMES" />
+                                            </rowConstraints>
+                                             <children>
+                                                <Label styleClass="right-panel-property" stylesheets="@application.css" text="Titolo:" />
+                                                <Label styleClass="right-panel-property" text="Punteggio:" GridPane.rowIndex="1" />
+                                                <Label styleClass="right-panel-property" stylesheets="@application.css" text="Data:" GridPane.rowIndex="2" />
+                                                <Label styleClass="right-panel-property" text="Testo:" GridPane.rowIndex="3" />
+                                                <TextArea fx:id="focusedReviewText" editable="false" prefHeight="200.0" prefWidth="200.0" promptText="Testo della recensione" styleClass="general-text" stylesheets="@application.css" wrapText="true" GridPane.columnIndex="1" GridPane.rowIndex="3" GridPane.vgrow="ALWAYS" />
+                                                <TextArea fx:id="focusedReviewTitle" editable="false" promptText="Titolo della recensione" styleClass="general-text-area" stylesheets="@application.css" wrapText="true" GridPane.columnIndex="1" />
+                                                <TextArea fx:id="focusedReviewScore" editable="false" prefHeight="200.0" prefWidth="200.0" promptText="Punteggio della recensione" styleClass="general-text-area" stylesheets="@application.css" wrapText="true" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                                                <TextArea fx:id="focusedReviewDate" editable="false" prefHeight="200.0" prefWidth="200.0" promptText="Data della recensione" styleClass="general-text-area" stylesheets="@application.css" wrapText="true" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                                             </children>
+                                             <VBox.margin>
+                                                <Insets top="50.0" />
+                                             </VBox.margin>
+                                          </GridPane>
+                                          <HBox alignment="TOP_CENTER">
+                                             <children>
+                                                <Button fx:id="buttonDeleteReview" contentDisplay="CENTER" disable="true" mnemonicParsing="false" onAction="#onDeleteReview" prefWidth="200.0" stylesheets="@application.css" text="Elimina Recensione">
+                                                   <styleClass>
+                                                      <String fx:value="general-button" />
+                                                      <String fx:value="form-button" />
+                                                   </styleClass></Button>
+                                             </children>
+                                             <padding>
+                                                <Insets bottom="50.0" right="50.0" />
+                                             </padding>
+                                          </HBox>
+                                       </children>
+                                    </VBox>
+                                </items>
+                              </SplitPane>
+                           </children>
+                        </VBox>
+                     </children></AnchorPane>
+               </content>
+            </Tab>
+            <Tab text="Inserisci Ristoranti">
+               <content>
+                  <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <VBox alignment="CENTER" layoutX="14.0" spacing="50.0" styleClass="right-panel" stylesheets="@application.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <children>
+                              <ListView fx:id="restaurantsViewer" prefWidth="200.0" styleClass="files-panel">
+                                 <VBox.margin>
+                                    <Insets left="100.0" right="100.0" />
+                                 </VBox.margin>
+                              </ListView>
+                              <Button mnemonicParsing="false" onAction="#onInsertRestaurants" stylesheets="@application.css" text="Inserisci Ristoranti">
+                                 <styleClass>
+                                    <String fx:value="general-button" />
+                                    <String fx:value="right-panel-button" />
+                                 </styleClass>
+                              </Button>
+                           </children></VBox>
+                     </children>
+                  </AnchorPane>
+               </content>
+            </Tab>
+        </tabs>
+      </TabPane>
+   </children>
+</VBox>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.Pagination?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.RestaurantOwnerLoggedController">
+   <children>
+      <MenuBar stylesheets="@application.css">
+        <menus>
+          <Menu mnemonicParsing="false" text="Naviga">
+            <items>
+                  <MenuItem mnemonicParsing="false" onAction="#onNewRestaurantRegistration" text="Aggiungi nuovo ristorante" />
+                  <MenuItem mnemonicParsing="false" onAction="#onPreviousPageRequest" text="Logout" />
+                  <MenuItem mnemonicParsing="false" onAction="#onDeleteAccountRequest" text="Cancella account" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+              <MenuItem mnemonicParsing="false" onAction="#onCloseWindow" text="Chiudi" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Aiuto">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#onHelpRequest" text="Su Ar' tocco!" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <AnchorPane VBox.vgrow="ALWAYS">
+         <children>
+            <TabPane fx:id="tabPane" side="LEFT" stylesheets="@application.css" tabClosingPolicy="UNAVAILABLE" tabMinWidth="165.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+              <tabs>
+                <Tab fx:id="tabApproved" text="I miei ristoranti">
+                  <content>
+                    <AnchorPane styleClass="main-panel">
+                           <children>
+                              <Label fx:id="messageRestaurantOwner" stylesheets="@application.css" AnchorPane.leftAnchor="20.0" AnchorPane.topAnchor="10.0">
+                                 <padding>
+                                    <Insets bottom="10.0" />
+                                 </padding>
+                              </Label>
+                              <SplitPane dividerPositions="0.2" minHeight="900.0" AnchorPane.bottomAnchor="30.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="40.0">
+                                <items>
+                                    <ListView fx:id="restaurantViewerApproved" styleClass="left-panel" stylesheets="@application.css" />
+                                  <AnchorPane minWidth="500.0" styleClass="right-panel">
+                                       <children>
+                                          <VBox alignment="TOP_CENTER" styleClass="right-panel" stylesheets="@application.css" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="40.0" AnchorPane.topAnchor="0.0">
+                                             <children>
+                                                <VBox prefHeight="11.0" prefWidth="1264.0">
+                                                   <children>
+                                                      <AnchorPane>
+                                                         <children>
+                                                            <Button fx:id="removeRestaurantButton" mnemonicParsing="false" onAction="#onDeleteRestaurant" prefWidth="150.0" stylesheets="@application.css" text="Cancella Ristorante" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="20.0">
+                                                               <styleClass>
+                                                                  <String fx:value="general-button" />
+                                                                  <String fx:value="right-panel-button" />
+                                                               </styleClass></Button>
+                                                            <Button fx:id="modifyButton" mnemonicParsing="false" onAction="#onModifyRequest" prefWidth="100.0" stylesheets="@application.css" text="Modifica" AnchorPane.leftAnchor="200.0" AnchorPane.topAnchor="20.0">
+                                                               <styleClass>
+                                                                  <String fx:value="general-button" />
+                                                                  <String fx:value="right-panel-button" />
+                                                               </styleClass></Button>
+                                                         </children>
+                                                         <VBox.margin>
+                                                            <Insets />
+                                                         </VBox.margin>
+                                                      </AnchorPane>
+                                                   </children>
+                                                   <VBox.margin>
+                                                      <Insets bottom="20.0" />
+                                                   </VBox.margin>
+                                                   <opaqueInsets>
+                                                      <Insets />
+                                                   </opaqueInsets>
+                                                </VBox>
+                                                <HBox>
+                                                   <children>
+                                                      <VBox alignment="TOP_RIGHT" spacing="15.0" styleClass="right-panel-list-container" HBox.hgrow="ALWAYS">
+                                                         <children>
+                                                            <HBox spacing="20.0">
+                                                               <children>
+                                                                  <Label prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" stylesheets="@application.css" text="Nome:" />
+                                                                  <TextField fx:id="nameApproved" alignment="CENTER" disable="true" editable="false" prefWidth="400.0" promptText="Nome" styleClass="right-panel-value" stylesheets="@application.css" />
+                                                               </children>
+                                                            </HBox>
+                                                            <HBox spacing="20.0">
+                                                               <children>
+                                                                  <Label prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" stylesheets="@application.css" text="Numero di telefono:" />
+                                                                  <TextField fx:id="phoneNumberApproved" alignment="CENTER" disable="true" editable="false" maxWidth="-Infinity" prefWidth="400.0" promptText="Numero di telefono" styleClass="right-panel-value" stylesheets="@application.css" HBox.hgrow="ALWAYS" />
+                                                               </children>
+                                                            </HBox>
+                                                            <HBox spacing="20.0">
+                                                               <children>
+                                                                  <Label prefWidth="200.0" styleClass="right-panel-property" stylesheets="@application.css" text="Indirizzo:" />
+                                                                  <TextField fx:id="addressApproved" alignment="CENTER" disable="true" editable="false" maxWidth="-Infinity" prefWidth="400.0" promptText="Indirizzo" styleClass="right-panel-value" stylesheets="@application.css" />
+                                                               </children>
+                                                            </HBox>
+                                                            <HBox spacing="20.0">
+                                                               <children>
+                                                                  <Label minWidth="-Infinity" prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" stylesheets="@application.css" text="Fascia di prezzo:" />
+                                                                  <TextField fx:id="priceRangeApproved" alignment="CENTER" disable="true" editable="false" prefWidth="400.0" promptText="Fascia di prezzo" styleClass="right-panel-value" stylesheets="@application.css" />
+                                                               </children>
+                                                            </HBox>
+                                                         </children>
+                                                      </VBox>
+                                                      <VBox maxHeight="-Infinity" spacing="10.0" HBox.hgrow="NEVER">
+                                                         <children>
+                                                            <VBox spacing="10.0" styleClass="right-panel-list-container">
+                                                               <children>
+                                                                  <Label styleClass="right-panel-property" stylesheets="@application.css" text="Orari di apertura:" />
+                                                                  <ListView fx:id="timetablesRestaurantApproved" minWidth="300.0" prefHeight="150.0" styleClass="right-panel-list" stylesheets="@application.css">
+                                                                     <VBox.margin>
+                                                                        <Insets left="20.0" />
+                                                                     </VBox.margin>
+                                                                  </ListView>
+                                                               </children>
+                                                            </VBox>
+                                                            <HBox spacing="50.0" VBox.vgrow="NEVER">
+                                                               <children>
+                                                                  <Button fx:id="addButton" disable="true" mnemonicParsing="false" onAction="#onAddTimetableRequest" prefWidth="100.0" stylesheets="@application.css" text="Aggiungi">
+                                                                     <styleClass>
+                                                                        <String fx:value="general-button" />
+                                                                        <String fx:value="right-panel-button" />
+                                                                     </styleClass>
+                                                                     <HBox.margin>
+                                                                        <Insets />
+                                                                     </HBox.margin>
+                                                                  </Button>
+                                                                  <Button fx:id="removeButton" disable="true" mnemonicParsing="false" onAction="#onDeleteTimetableRequest" prefWidth="100.0" stylesheets="@application.css" text="Elimina">
+                                                                     <styleClass>
+                                                                        <String fx:value="general-button" />
+                                                                        <String fx:value="right-panel-button" />
+                                                                     </styleClass>
+                                                                     <HBox.margin>
+                                                                        <Insets />
+                                                                     </HBox.margin>
+                                                                  </Button>
+                                                               </children>
+                                                               <VBox.margin>
+                                                                  <Insets left="20.0" />
+                                                               </VBox.margin>
+                                                            </HBox>
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox spacing="20.0" VBox.vgrow="NEVER">
+                                                   <children>
+                                                      <VBox spacing="10.0" styleClass="right-panel-list-container" stylesheets="@application.css">
+                                                         <children>
+                                                            <Label styleClass="right-panel-property" stylesheets="@application.css" text="Tipi di cucina:" />
+                                                            <ListView fx:id="typeOfCookingApproved" styleClass="right-panel-list" stylesheets="@application.css">
+                                                               <VBox.margin>
+                                                                  <Insets left="20.0" />
+                                                               </VBox.margin></ListView>
+                                                         </children>
+                                                         <HBox.margin>
+                                                            <Insets />
+                                                         </HBox.margin>
+                                                      </VBox>
+                                                      <VBox spacing="10.0" styleClass="right-panel-list-container" stylesheets="@application.css">
+                                                         <children>
+                                                            <Label styleClass="right-panel-property" stylesheets="@application.css" text="Cucine particolari:" />
+                                                            <ListView fx:id="optionsApproved" styleClass="right-panel-list" stylesheets="@application.css">
+                                                               <VBox.margin>
+                                                                  <Insets left="20.0" />
+                                                               </VBox.margin></ListView>
+                                                         </children>
+                                                      </VBox>
+                                                      <VBox spacing="10.0" styleClass="right-panel-list-container" stylesheets="@application.css">
+                                                         <children>
+                                                            <Label styleClass="right-panel-property" stylesheets="@application.css" text="Servizi aggiuntivi:" />
+                                                            <ListView fx:id="featuresApproved" styleClass="right-panel-list" stylesheets="@application.css">
+                                                               <VBox.margin>
+                                                                  <Insets left="20.0" />
+                                                               </VBox.margin></ListView>
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                   <padding>
+                                                      <Insets bottom="30.0" />
+                                                   </padding>
+                                                   <VBox.margin>
+                                                      <Insets top="20.0" />
+                                                   </VBox.margin>
+                                                   <opaqueInsets>
+                                                      <Insets />
+                                                   </opaqueInsets>
+                                                </HBox>
+                                                <Pagination fx:id="paginationApproved" stylesheets="@application.css" />
+                                             </children>
+                                          </VBox>
+                                       </children>
+                                    </AnchorPane>
+                                </items>
+                              </SplitPane>
+                           </children>
+                        </AnchorPane>
+                  </content>
+                </Tab>
+                <Tab fx:id="tabNotApproved" text="Ristoranti da approvare">
+                  <content>
+                    <AnchorPane>
+                           <children>
+                              <SplitPane dividerPositions="0.2" minHeight="900.0" stylesheets="@application.css" AnchorPane.bottomAnchor="30.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                 <items>
+                                    <ListView fx:id="restaurantViewerNotApproved" styleClass="left-panel" stylesheets="@application.css" />
+                                    <AnchorPane minWidth="500.0" styleClass="right-panel">
+                                       <children>
+                                          <VBox stylesheets="@application.css" AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="40.0" AnchorPane.topAnchor="0.0">
+                                             <children>
+                                                <HBox>
+                                                   <children>
+                                                      <VBox spacing="15.0" styleClass="right-panel-list-container" HBox.hgrow="ALWAYS">
+                                                         <children>
+                                                            <HBox>
+                                                               <children>
+                                                                  <Label prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" text="Nome:">
+                                                                     <HBox.margin>
+                                                                        <Insets right="10.0" />
+                                                                     </HBox.margin>
+                                                                  </Label>
+                                                                  <TextField fx:id="nameNotApproved" alignment="CENTER" disable="true" editable="false" minWidth="-Infinity" prefWidth="400.0" promptText="Nome" styleClass="right-panel-value" />
+                                                               </children>
+                                                            </HBox>
+                                                            <HBox prefHeight="28.0" prefWidth="754.0" spacing="20.0">
+                                                               <children>
+                                                                  <Label prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" text="Numero di telefono:">
+                                                                     <HBox.margin>
+                                                                        <Insets />
+                                                                     </HBox.margin>
+                                                                  </Label>
+                                                                  <TextField fx:id="phoneNumberNotApproved" alignment="CENTER" disable="true" editable="false" minWidth="-Infinity" prefWidth="400.0" promptText="Numero di telefono" styleClass="right-panel-value" />
+                                                               </children>
+                                                            </HBox>
+                                                            <HBox spacing="20.0">
+                                                               <children>
+                                                                  <Label prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" text="Indirizzo:">
+                                                                     <HBox.margin>
+                                                                        <Insets />
+                                                                     </HBox.margin>
+                                                                  </Label>
+                                                                  <TextField fx:id="addressNotApproved" alignment="CENTER" disable="true" editable="false" minWidth="-Infinity" prefWidth="400.0" promptText="Indirizzo" styleClass="right-panel-value" />
+                                                               </children>
+                                                            </HBox>
+                                                            <HBox layoutX="10.0" layoutY="190.0" spacing="20.0">
+                                                               <children>
+                                                                  <Label prefHeight="25.0" prefWidth="200.0" styleClass="right-panel-property" text="Fascia di prezzo:">
+                                                                     <HBox.margin>
+                                                                        <Insets />
+                                                                     </HBox.margin>
+                                                                  </Label>
+                                                                  <TextField fx:id="priceRangeNotApproved" alignment="CENTER" disable="true" editable="false" minWidth="-Infinity" prefWidth="400.0" promptText="Intervallo di prezzo" styleClass="right-panel-value" text="Fascia di Prezzo" />
+                                                               </children>
+                                                            </HBox>
+                                                         </children>
+                                                      </VBox>
+                                                      <VBox maxHeight="-Infinity" spacing="10.0" styleClass="right-panel-list-container">
+                                                         <children>
+                                                            <Label styleClass="right-panel-property" text="Orari di apertura:">
+                                                               <padding>
+                                                                  <Insets bottom="10.0" />
+                                                               </padding>
+                                                               <VBox.margin>
+                                                                  <Insets />
+                                                               </VBox.margin>
+                                                            </Label>
+                                                            <ListView fx:id="timetablesRestaurantNotApproved" prefHeight="100.0" styleClass="right-panel-list">
+                                                               <VBox.margin>
+                                                                  <Insets left="20.0" />
+                                                               </VBox.margin></ListView>
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                </HBox>
+                                                <HBox spacing="20.0">
+                                                   <children>
+                                                      <VBox spacing="10.0" styleClass="right-panel-list-container" HBox.hgrow="ALWAYS">
+                                                         <children>
+                                                            <Label styleClass="right-panel-property" text="Tipi di cucina:">
+                                                               <VBox.margin>
+                                                                  <Insets />
+                                                               </VBox.margin>
+                                                            </Label>
+                                                            <ListView fx:id="typeOfCookingNotApproved" maxHeight="100.0" styleClass="right-panel-list">
+                                                               <VBox.margin>
+                                                                  <Insets left="20.0" />
+                                                               </VBox.margin></ListView>
+                                                         </children>
+                                                         <opaqueInsets>
+                                                            <Insets />
+                                                         </opaqueInsets>
+                                                      </VBox>
+                                                      <VBox spacing="10.0" styleClass="right-panel-list-container" HBox.hgrow="ALWAYS">
+                                                         <children>
+                                                            <Label styleClass="right-panel-property" text="Cucine particolari:">
+                                                               <padding>
+                                                                  <Insets bottom="10.0" />
+                                                               </padding>
+                                                               <VBox.margin>
+                                                                  <Insets />
+                                                               </VBox.margin>
+                                                            </Label>
+                                                            <ListView fx:id="optionsNotApproved" maxHeight="100.0" styleClass="right-panel-list">
+                                                               <VBox.margin>
+                                                                  <Insets left="20.0" />
+                                                               </VBox.margin></ListView>
+                                                         </children>
+                                                      </VBox>
+                                                      <VBox spacing="10.0" styleClass="right-panel-list-container">
+                                                         <children>
+                                                            <Label styleClass="right-panel-property" text="Servizi aggiuntivi:">
+                                                               <VBox.margin>
+                                                                  <Insets />
+                                                               </VBox.margin>
+                                                            </Label>
+                                                            <ListView fx:id="featuresNotApproved" maxHeight="100.0" styleClass="right-panel-list">
+                                                               <VBox.margin>
+                                                                  <Insets left="20.0" />
+                                                               </VBox.margin></ListView>
+                                                         </children>
+                                                      </VBox>
+                                                   </children>
+                                                   <padding>
+                                                      <Insets bottom="20.0" />
+                                                   </padding>
+                                                   <VBox.margin>
+                                                      <Insets top="50.0" />
+                                                   </VBox.margin>
+                                                   <opaqueInsets>
+                                                      <Insets />
+                                                   </opaqueInsets>
+                                                </HBox>
+                                             </children>
+                                             <padding>
+                                                <Insets top="100.0" />
+                                             </padding>
+                                          </VBox>
+                                       </children>
+                                    </AnchorPane>
+                                 </items>
+                              </SplitPane>
+                           </children></AnchorPane>
+                  </content>
+                </Tab>
+                  <Tab fx:id="tabShowTrend" text="Mostra trend">
+                     <content>
+                        <AnchorPane>
+                           <children>
+                              <SplitPane dividerPositions="0.2" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                 <items>
+                                    <ListView fx:id="restaurantViewerShowTrend" styleClass="left-panel" stylesheets="@application.css" />
+                                    <AnchorPane styleClass="right-panel">
+                                       <children>
+                                          <VBox spacing="40.0" styleClass="right-panel" stylesheets="@application.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                             <children>
+                                                <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="50.0">
+                                                   <children>
+                                                      <GridPane hgap="50.0" vgap="50.0">
+                                                        <columnConstraints>
+                                                          <ColumnConstraints hgrow="SOMETIMES" />
+                                                          <ColumnConstraints hgrow="ALWAYS" />
+                                                        </columnConstraints>
+                                                        <rowConstraints>
+                                                          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                        </rowConstraints>
+                                                         <children>
+                                                            <Label stylesheets="@application.css" text="Data di partenza:" />
+                                                            <Label stylesheets="@application.css" text="Finestra temporale:" GridPane.rowIndex="1" />
+                                                            <ChoiceBox fx:id="choiceBoxIntervalWindow" prefWidth="250.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                                                            <DatePicker fx:id="datePickerFromDate" prefWidth="250.0" GridPane.columnIndex="1" />
+                                                         </children>
+                                                      </GridPane>
+                                                   </children>
+                                                </HBox>
+                                                <HBox fx:id="showTrendViewer" alignment="CENTER" VBox.vgrow="ALWAYS">
+                                                   <padding>
+                                                      <Insets left="50.0" right="50.0" />
+                                                   </padding>
+                                                </HBox>
+                                             </children>
+                                             <padding>
+                                                <Insets bottom="100.0" left="100.0" right="100.0" top="40.0" />
+                                             </padding>
+                                          </VBox>
+                                       </children>
+                                    </AnchorPane>
+                                 </items>
+                              </SplitPane>
+                           </children>
+                        </AnchorPane>
+                     </content>
+                  </Tab>
+                  <Tab fx:id="tabComparison" text="Confronto ">
+                     <content>
+                        <AnchorPane>
+                           <children>
+                              <SplitPane dividerPositions="0.2" minHeight="900.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                 <items>
+                                    <ListView fx:id="restaurantViewerComparison" styleClass="left-panel" stylesheets="@application.css" />
+                                    <AnchorPane styleClass="right-panel">
+                                       <children>
+                                          <VBox spacing="40.0" styleClass="right-panel" stylesheets="@application.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                             <children>
+                                                <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="50.0">
+                                                   <children>
+                                                      <GridPane hgap="50.0" vgap="50.0">
+                                                         <columnConstraints>
+                                                            <ColumnConstraints hgrow="SOMETIMES" />
+                                                            <ColumnConstraints hgrow="ALWAYS" />
+                                                         </columnConstraints>
+                                                         <rowConstraints>
+                                                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                         </rowConstraints>
+                                                         <children>
+                                                            <Label stylesheets="@application.css" text="Data di partenza:" />
+                                                            <Label stylesheets="@application.css" text="Finestra temporale:" GridPane.rowIndex="1" />
+                                                            <ChoiceBox fx:id="choiceBoxIntervalWindowComparison" prefWidth="250.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                                                            <DatePicker fx:id="datePickerFromDateComparison" prefWidth="250.0" GridPane.columnIndex="1" />
+                                                         </children>
+                                                      </GridPane>
+                                                   </children>
+                                                </HBox>
+                                                <HBox fx:id="gridPaneContainer" alignment="CENTER" />
+                                                <HBox fx:id="comparisonViewer" alignment="CENTER" spacing="20.0">
+                                                   <padding>
+                                                      <Insets left="20.0" right="20.0" />
+                                                   </padding>
+                                                </HBox>
+                                             </children>
+                                             <padding>
+                                                <Insets bottom="100.0" left="100.0" right="100.0" top="40.0" />
+                                             </padding>
+                                          </VBox>
+                                       </children>
+                                    </AnchorPane>
+                                 </items>
+                              </SplitPane>
+                           </children>
+                        </AnchorPane>
+                     </content>
+                  </Tab>
+              </tabs>
+            </TabPane>
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>
